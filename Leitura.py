@@ -11,7 +11,7 @@ import requests
 import glob
 import filecmp
 from bs4 import BeautifulSoup
-from my_bibliotec.IBGE import *
+from IBGE import *
 import shutil
 import chardet
 
