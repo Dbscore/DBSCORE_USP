@@ -1,0 +1,439 @@
+UF,Codigo do Municipio IBGE,Municipio,Area,Codigo da Área,Nome da Area,Numero de Domicilios,Numero de Habitantes,"Renda media domiciliar(Real)
+",Grupo de percentis de acordo com a densidade de estabelecimentos saudaveis (in natura e misto),"Densidade de estabelecimentos saudaveis (in natura + misto)
+10 mil hab","Densidade de estabelecimentos não saudaveis (ultraprocessados)
+10 mil hab",Numero de feiras livres,Numero de estabelecimentos In natura na base da RAIS,Numero de estabelecimentos mistos na base da RAIS,Numero de estabelecimentos ultraprocessados na base da RAIS,Total de estabelecimentos de alimentacao na base da RAIS,"Hipermercados
+cnae 4711301","Supermercados
+cnae 4711302","Minimercados. mercearias e armazens
+cnae 4712100","Padaria e confeitaria de revenda
+cnae 4721102","Varejista de laticinios e frios
+cnae 4721103","Varejista de doces. balas. bombons e semelhantes
+cnae 4721104","Acougues
+cnae 4722901","Peixarias
+cnae 4722902","Varejista de hortifrutigranjeiros
+cnae 4724500","Lojas de conveniencia 
+cnae 4729602","Produtos alimenticios não especificados 
+cnae 4729699","Restaurantes
+cnae 5611201","Bares e outros estabs bebidas 
+cnae 5611202","Lanchonetes. casas de cha. de sucos e similares
+cnae 5611203","Ambulantes de alimentacao 
+Cnae 5612100","Cantinas
+cnae 5620103","Alimentos preparados para consumo domiciliar
+cnae 5620104"
+RO,1100205,Porto Velho,Distrito,11002051000,Abunã - Porto Velho (RO),509,1631,994.22,Grupo 1 - Percentil 25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,1100205,Porto Velho,Distrito,11002051500,Calama - Porto Velho (RO),622,2767,968.77,Grupo 1 - Percentil 25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,1100205,Porto Velho,Distrito,11002051600,Demarcação- Porto Velho (RO),129,543,894.92,Grupo 1 - Percentil 25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,1100205,Porto Velho,Distrito,11002051800,Fortaleza do Abunã- Porto Velho (RO),132,435,1305.83,Grupo 1 - Percentil 25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,1100205,Porto Velho,Distrito,11002053000,Nazaré - Porto Velho (RO),160,620,1054.19,Grupo 1 - Percentil 25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,1100205,Porto Velho,Distrito,11002054000,São Carlos - Porto Velho (RO),505,2001,1123.94,Grupo 1 - Percentil 25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RO,1100205,Porto Velho,Distrito,11002050500,Porto Velho - Porto Velho (RO) - excluindo os subdistritos englobados,12165,44328,1597.64,Grupo 2 - Percentil 50,10.6,1.8,0,7,40,8,55,2,3,20,4,1,1,4,0,0,0,4,7,0,7,0,0,2
+RO,1100205,Porto Velho,Subdistrito,11002050508,Zona 03 - Porto Velho - Porto Velho (RO),26194,96631,2396.09,Grupo 2 - Percentil 50,11.69,2.28,1,13,99,22,134,3,6,42,11,1,1,5,1,1,0,13,28,1,19,0,1,1
+RO,1100205,Porto Velho,Subdistrito,11002050510,Zona 05 - Porto Velho - Porto Velho (RO),6315,23838,1406.5,Grupo 2 - Percentil 50,11.33,0.42,0,4,23,1,28,0,2,19,1,0,0,2,0,0,0,0,3,0,1,0,0,0
+RO,1100205,Porto Velho,Subdistrito,11002050507,Zona 02 - Porto Velho - Porto Velho (RO),16211,53580,4213.83,Grupo 3 - Percentil 75,35.65,12.69,2,32,157,68,257,4,15,30,12,3,11,9,3,5,5,22,82,6,45,3,1,1
+RO,1100205,Porto Velho,Subdistrito,11002050509,Zona 04 - Porto Velho - Porto Velho (RO),24997,92550,2459.37,Grupo 3 - Percentil 75,18.91,2.16,1,32,142,20,194,4,8,74,19,1,3,13,5,6,0,9,32,1,16,0,0,3
+RO,1100205,Porto Velho,Distrito,11002052000,Jaci Paraná - Porto Velho (RO),2817,10051,2161.45,Grupo 3 - Percentil 75,37.81,5.97,0,8,30,6,44,0,6,20,1,0,0,2,0,0,1,1,7,1,4,0,0,1
+RO,1100205,Porto Velho,Distrito,11002053500,Nova Califórnia - Porto Velho (RO),1031,3594,1069.44,Grupo 3 - Percentil 75,22.26,2.78,0,0,8,1,9,0,0,6,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+RO,1100205,Porto Velho,Subdistrito,11002050506,Zona 01 - Porto Velho - Porto Velho (RO),20207,71148,3573.86,Grupo 4 - Percentil 100,51.72,14.76,5,59,304,105,468,8,22,80,24,1,10,27,4,6,4,37,146,18,71,3,2,5
+RO,1100205,Porto Velho,Distrito,11002051700,Extrema - Porto Velho (RO),1742,6153,1428.95,Grupo 4 - Percentil 100,40.63,0,0,3,22,0,25,0,2,15,3,1,0,0,0,1,0,1,2,0,0,0,0,0
+RO,1100205,Porto Velho,Distrito,11002052500,Mutum Paraná - Porto Velho (RO),1971,6575,946.23,Grupo 4 - Percentil 100,47.15,1.52,0,14,17,1,32,0,14,5,3,1,0,0,0,0,0,2,6,0,1,0,0,0
+RO,1100205,Porto Velho,Distrito,11002054500,Vista Alegre do Abunã- Porto Velho (RO),1156,4074,1886.78,Grupo 4 - Percentil 100,44.18,7.36,0,3,15,3,21,0,2,10,0,0,0,0,0,1,0,1,4,1,2,0,0,0
+RO,1100205,Porto Velho, ,11002059998,Não Localizado,0,0,0, ,0,0,0,24,98,17,139,0,8,43,12,2,1,13,0,3,2,5,29,3,10,4,1,3
+RO,1100205,Porto Velho, ,11002059999,CEP Inválido,0,0,0, ,0,0,0,5,25,10,40,2,3,12,2,0,1,1,0,1,0,1,7,3,6,0,0,1
+AC,1200401,Rio Branco,Município,12004010500,Rio Branco - Rio Branco (AC),94216,333667,2181.42, ,19.9,5.48,31,96,537,183,816,21,40,224,36,2,12,38,5,13,4,67,167,18,149,5,2,13
+AM,1302603,Manaus,Distrito,13026030500,Manaus - Manaus (AM) - excluindo os subdistritos englobados,6162,23692,1017.52,Grupo 1 - Percentil 25,8.02,0.42,0,14,5,1,20,1,0,14,1,0,0,0,0,0,0,2,1,0,1,0,0,0
+AM,1302603,Manaus,Subdistrito,13026030512,Sétima R.A. - Manaus - Manaus (AM),123819,487943,1684.51,Grupo 1 - Percentil 25,8.36,1.46,5,238,165,71,474,11,9,206,41,16,12,17,1,5,3,37,51,5,53,2,3,2
+AM,1302603,Manaus,Subdistrito,13026030514,Nona R.A. - Manaus - Manaus (AM),78109,323101,1338.39,Grupo 1 - Percentil 25,7.71,0.9,1,185,63,29,277,4,11,151,23,6,13,15,2,6,0,14,12,3,15,0,1,1
+AM,1302603,Manaus,Subdistrito,13026030509,Quarta R.A. - Manaus - Manaus (AM),45077,176703,2372.04,Grupo 2 - Percentil 50,10.3,1.81,3,121,58,32,211,1,2,104,15,6,2,11,0,4,2,8,25,1,24,1,4,1
+AM,1302603,Manaus,Subdistrito,13026030510,Quinta R.A. - Manaus - Manaus (AM),38725,153302,1587.08,Grupo 2 - Percentil 50,8.55,1.24,3,85,43,19,147,2,4,67,13,3,1,2,5,7,2,10,15,0,14,0,2,0
+AM,1302603,Manaus,Subdistrito,13026030507,Segunda R.A. - Manaus - Manaus (AM),42838,169167,2165.56,Grupo 3 - Percentil 75,11.17,1.42,4,131,54,24,209,4,2,122,18,4,5,3,2,2,1,14,10,2,14,0,4,2
+AM,1302603,Manaus,Subdistrito,13026030508,Terceira R.A. - Manaus - Manaus (AM),44484,173270,2596.33,Grupo 3 - Percentil 75,12.7,2.19,1,139,80,38,257,3,3,121,26,7,3,9,2,4,3,12,27,2,28,2,4,1
+AM,1302603,Manaus,Subdistrito,13026030506,Primeira R.A. - Manaus - Manaus (AM),21130,74345,3137.95,Grupo 4 - Percentil 100,46.67,13.85,2,160,185,103,448,3,9,109,15,8,14,10,4,28,4,26,103,16,81,4,4,10
+AM,1302603,Manaus,Subdistrito,13026030511,Sexta R.A. - Manaus - Manaus (AM),49152,171782,5986.4,Grupo 4 - Percentil 100,32.37,14.5,4,141,411,249,801,13,12,88,50,9,34,15,17,9,8,60,235,19,192,5,15,20
+AM,1302603,Manaus,Subdistrito,13026030513,Oitava R.A. - Manaus - Manaus (AM),11358,44006,3463.32,Grupo 4 - Percentil 100,13.18,6.36,0,18,40,28,86,1,3,14,3,0,3,1,0,0,0,7,20,5,25,3,0,1
+AM,1302603,Manaus, ,13026039998,Não Localizado,0,0,0, ,0,0,0,123,88,42,253,3,10,102,19,9,4,7,1,3,3,12,32,2,31,2,4,9
+AM,1302603,Manaus, ,13026039999,CEP Inválido,0,0,0, ,0,0,0,45,17,5,67,3,2,37,2,2,0,2,2,2,0,7,3,0,5,0,0,0
+RR,1400100,Boa Vista,Distrito,14001000500,Boa Vista - Boa Vista (RR),76250,282241,2395.08, ,28.1,7.41,6,400,387,209,996,10,72,268,46,5,18,26,21,13,11,62,195,42,179,7,1,20
+PA,1501402,Belém,Distrito,15014026700,Outeiro - Belém (PA),10620,38664,1144.04,Grupo 1 - Percentil 25,5.43,0,0,13,8,0,21,1,0,9,1,0,0,2,1,1,0,1,4,0,0,0,0,1
+PA,1501402,Belém,Distrito,15014027500,Sacramenta - Belém (PA),66175,256465,2289.46,Grupo 1 - Percentil 25,7.88,1.83,1,83,118,47,248,4,8,53,15,3,2,17,1,4,1,38,39,8,43,4,1,7
+PA,1501402,Belém,Distrito,15014024500,Bengui - Belém (PA),75946,284334,1752.39,Grupo 2 - Percentil 50,8.58,1.72,1,123,120,49,292,8,15,83,27,4,5,20,1,4,1,28,41,5,43,2,0,5
+PA,1501402,Belém,Distrito,15014025500,Guamá - Belém (PA),85722,342377,1879.17,Grupo 2 - Percentil 50,8.06,1.02,0,153,123,35,311,0,21,69,18,7,5,28,5,30,0,38,35,5,29,10,1,10
+PA,1501402,Belém,Distrito,15014025000,Entroncamento - Belém (PA),34071,125239,2787.94,Grupo 3 - Percentil 75,11.34,3.75,1,34,107,47,188,2,4,21,15,4,9,5,1,3,0,30,41,4,36,5,2,6
+PA,1501402,Belém,Distrito,15014026000,Icoaraci - Belém (PA),44614,166915,1449.77,Grupo 3 - Percentil 75,8.63,0.78,0,84,60,13,157,2,8,46,14,0,4,18,9,3,1,11,19,6,8,1,0,7
+PA,1501402,Belém,Distrito,15014020500,Belém - Belém (PA),42963,144490,6984.47,Grupo 4 - Percentil 100,42.91,13.84,6,102,512,200,814,10,27,46,38,2,20,19,5,5,3,97,300,41,175,4,2,20
+PA,1501402,Belém,Distrito,15014026500,Mosqueiro - Belém (PA),8766,33152,1260.03,Grupo 4 - Percentil 100,12.97,1.21,0,29,14,4,47,0,1,25,2,0,0,2,0,1,0,6,5,0,4,0,0,1
+PA,1501402,Belém, ,15014029998,Não Localizado,0,0,0, ,0,0,0,47,103,26,176,3,10,20,11,4,1,4,10,3,0,23,45,11,24,4,1,2
+PA,1501402,Belém, ,15014029999,CEP Inválido,0,0,0, ,0,0,0,34,25,6,65,0,5,15,4,1,2,8,2,4,0,6,11,2,4,0,0,1
+AP,1600303,Macapá,Distrito,16003031200,Fazendinha - Macapá (AP),2138,9213,1531.72,Grupo 1 - Percentil 25,3.26,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+AP,1600303,Macapá,Distrito,16003031000,Bailique - Macapá(AP),1481,7604,935.01,Grupo 2 - Percentil 50,7.89,0,0,6,0,0,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AP,1600303,Macapá,Distrito,16003030500,Macapá- Macapá (AP),89773,374516,2621.83,Grupo 4 - Percentil 100,23.26,3.55,8,553,310,133,996,12,24,437,68,5,10,60,6,21,1,67,145,18,103,5,1,13
+AP,1600303,Macapá, ,16003039998,Não Localizado,0,0,0, ,0,0,0,20,12,5,37,0,2,17,2,0,0,0,0,1,0,4,6,1,4,0,0,0
+AP,1600303,Macapá, ,16003039999,CEP Inválido,0,0,0, ,0,0,0,47,13,6,66,1,1,38,2,1,1,4,1,3,0,1,8,1,4,0,0,0
+TO,1721000,Palmas,Distrito,17210000800,Buritirana - Palmas (TO),432,1546,912.9,Grupo 1 - Percentil 25,6.47,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TO,1721000,Palmas,Distrito,17210000500,Palmas - Palmas (TO),66894,220356,2936.82,Grupo 2 - Percentil 50,28.77,11.53,7,117,510,254,881,6,85,157,43,4,19,28,1,3,23,67,207,47,165,13,3,10
+TO,1721000,Palmas,Distrito,17210001500,Taquaruçu- Palmas (TO),1353,4738,1548.1,Grupo 4 - Percentil 100,29.55,2.11,0,7,7,1,15,0,4,1,2,0,0,2,0,1,0,2,2,0,1,0,0,0
+TO,1721000,Palmas, ,17210009998,Não Localizado,0,0,0, ,0,0,0,17,47,10,74,1,12,22,4,1,0,4,0,1,1,7,9,4,5,0,1,2
+TO,1721000,Palmas, ,17210009999,CEP Inválido,0,0,0, ,0,0,0,12,46,11,69,1,8,30,1,0,0,4,0,0,2,5,8,2,7,1,0,0
+MA,2111300,São Luís ,Distrito,21113000500,São Luís- São Luís (MA),276812,1011891,2290.89, ,19.46,4.81,13,935,1021,487,2443,26,84,571,125,25,37,132,31,117,18,233,557,73,354,14,5,41
+PI,2211001,Teresina,Distrito,22110010500,Teresina - Teresina (PI) - excluindo os subdistritos englobados,12061,46079,940.19,Grupo 1 - Percentil 25,3.04,0.65,0,9,5,3,17,1,1,7,0,0,0,0,0,1,0,0,4,0,3,0,0,0
+PI,2211001,Teresina,Subdistrito,22110010508,Norte - Teresina - Teresina (PI),47379,178351,1610.99,Grupo 1 - Percentil 25,13.85,1.96,0,174,73,35,282,9,9,141,17,5,3,12,1,10,0,7,35,12,19,1,1,0
+PI,2211001,Teresina,Subdistrito,22110010509,Sudeste - Teresina - Teresina (PI),36919,134019,1462.96,Grupo 2 - Percentil 50,18.06,3.13,0,169,73,42,284,8,10,132,3,6,6,18,3,5,1,22,27,10,25,1,0,7
+PI,2211001,Teresina,Subdistrito,22110010510,Sul - Teresina - Teresina (PI),46994,167793,1621.1,Grupo 3 - Percentil 75,20.32,4.11,0,247,94,69,410,12,11,177,10,8,5,26,2,29,1,18,39,18,45,2,0,7
+PI,2211001,Teresina,Subdistrito,22110010506,Centro - Teresina - Teresina (PI),32936,118037,3160.77,Grupo 4 - Percentil 100,35.67,17.45,3,197,221,206,624,9,22,142,12,2,11,25,2,3,1,36,154,29,161,3,4,8
+PI,2211001,Teresina,Subdistrito,22110010507,Leste - Teresina - Teresina (PI),45865,167168,3887.29,Grupo 4 - Percentil 100,31.11,13.52,1,213,306,226,745,15,19,143,21,5,14,20,14,12,4,51,198,53,154,5,1,16
+PI,2211001,Teresina, ,22110019998,Não Localizado,0,0,0, ,0,0,0,137,71,44,252,6,6,110,5,4,2,8,4,5,1,8,43,11,29,4,1,5
+PI,2211001,Teresina, ,22110019999,CEP Inválido,0,0,0, ,0,0,0,80,44,39,163,4,3,64,0,0,3,6,0,6,3,10,28,5,26,1,2,2
+CE,2304400,Fortaleza,Subdistrito,23044000506,Antônio Bezerra - Fortaleza - Fortaleza (CE),21613,76505,1471.76,Grupo 1 - Percentil 25,17.38,3.79,0,93,40,29,162,1,7,76,4,2,6,6,2,2,0,4,24,2,21,0,0,5
+CE,2304400,Fortaleza,Subdistrito,23044006006,Antônio Bezerra - Fortaleza - Antônio Bezerra (CE),46869,165388,1462.77,Grupo 1 - Percentil 25,13.54,2.6,0,186,38,43,267,9,5,162,5,3,7,9,2,5,1,8,12,3,31,3,1,1
+CE,2304400,Fortaleza,Subdistrito,23044007010,Conjunto Ceará - Fortaleza - Mondubim (CE),78180,280133,1124.61,Grupo 1 - Percentil 25,17.06,2.46,0,352,126,69,547,6,21,294,22,12,26,22,2,9,1,37,41,10,31,4,1,8
+CE,2304400,Fortaleza,Subdistrito,23044000507,Barra do Ceará - Fortaleza - Fortaleza (CE),87046,305143,1656.71,Grupo 2 - Percentil 50,20.78,5.15,5,426,203,157,786,21,30,339,18,12,22,28,7,12,3,32,112,24,105,10,3,8
+CE,2304400,Fortaleza,Subdistrito,23044006010,Conjunto Ceará- Fortaleza - Antônio Bezerra (CE),16816,59510,1253.91,Grupo 2 - Percentil 50,18.82,2.69,0,90,22,16,128,5,4,80,4,1,1,5,1,0,0,3,8,4,11,0,0,1
+CE,2304400,Fortaleza,Subdistrito,23044007014,Prefeito José Walter Mondubim - Fortaleza - Mondubim (CE),94014,324542,1572.74,Grupo 2 - Percentil 50,17.5,3.08,0,374,194,100,668,10,20,304,34,11,16,28,3,10,4,40,80,11,68,9,1,19
+CE,2304400,Fortaleza,Subdistrito,23044006511,Messejana - Fortaleza - Messejana (CE),77380,272853,1518.07,Grupo 3 - Percentil 75,25,4.47,1,455,226,122,803,12,27,356,33,12,19,35,12,15,3,35,109,14,85,10,1,25
+CE,2304400,Fortaleza,Subdistrito,23044007513,Parangaba - Fortaleza - Parangaba (CE),93184,316874,1823.33,Grupo 3 - Percentil 75,23.57,7.92,2,476,269,251,996,21,35,379,36,10,44,34,3,14,4,50,137,22,176,11,5,15
+CE,2304400,Fortaleza,Subdistrito,23044000508,Centro - Fortaleza - Fortaleza (CE),74640,238640,3562.55,Grupo 4 - Percentil 100,50.83,22.71,6,511,696,542,1749,35,57,354,40,23,56,31,31,25,6,120,440,43,417,13,20,38
+CE,2304400,Fortaleza,Subdistrito,23044000512,Mucuripe - Fortaleza - Fortaleza (CE),74066,239353,5802.11,Grupo 4 - Percentil 100,41.24,14.33,2,380,605,343,1328,25,34,271,27,8,25,19,35,10,2,77,432,41,264,11,11,36
+CE,2304400,Fortaleza,Subdistrito,23044006509,Cidade dos Funcionários - Fortaleza - Messejana (CE),46258,165908,3543.16,Grupo 4 - Percentil 100,28.21,14.47,1,178,289,240,707,5,17,136,29,4,17,10,1,6,2,40,184,18,194,8,9,27
+CE,2304400,Fortaleza, ,23044009998,Não Localizado,0,0,0, ,0,0,0,376,307,209,892,17,31,282,43,13,19,36,3,16,6,45,160,29,149,8,6,29
+CE,2304400,Fortaleza, ,23044009999,CEP Inválido,0,0,0, ,0,0,0,129,88,54,271,4,9,108,10,2,7,4,4,3,0,14,50,4,42,1,1,8
+RN,2408102,Natal,Subdistrito,24081020506,R.A. Norte - Natal - Natal (RN),86484,302980,1392.66,Grupo 1 - Percentil 25,17.23,3.66,2,83,437,111,631,8,28,218,52,16,26,17,9,22,16,58,69,20,49,7,4,12
+RN,2408102,Natal,Subdistrito,24081020509,R.A. Oeste - Natal - Natal (RN),62897,218134,1467.53,Grupo 2 - Percentil 50,19.9,3.81,4,96,334,83,513,2,23,174,35,14,15,11,4,54,8,32,67,12,48,4,2,8
+RN,2408102,Natal,Subdistrito,24081020507,R.A. Sul - Natal - Natal (RN),51244,166118,5155.63,Grupo 3 - Percentil 75,48.76,22.94,9,98,703,381,1182,14,21,117,41,8,22,15,9,34,24,99,371,81,254,19,9,44
+RN,2408102,Natal,Subdistrito,24081020508,R.A. Leste - Natal - Natal (RN),34897,114295,4269.22,Grupo 4 - Percentil 100,53.37,21.96,2,80,528,251,859,13,20,106,17,10,33,14,22,10,9,80,273,27,182,14,7,22
+RN,2408102,Natal, ,24081029998,Não Localizado,0,0,0, ,0,0,0,11,24,24,59,0,3,11,2,1,5,1,6,0,2,2,7,2,15,1,0,1
+RN,2408102,Natal, ,24081029999,CEP Inválido,0,0,0, ,0,0,0,14,42,18,74,2,4,9,4,3,6,2,3,4,0,7,16,4,8,1,1,0
+PB,2507507,João Pessoa,Município,25075070500,João Pessoa - João Pessoa (PB),213256,718822,2613.92, ,25.01,11.52,20,170,1608,828,2606,34,57,532,111,57,86,88,18,64,30,192,525,93,609,25,10,75
+PE,2611606,Recife,Subdistrito,26116060519,RPA 02 - Recife - Recife (PE),64943,220853,1899.5,Grupo 1 - Percentil 25,13.58,2.76,8,39,253,61,353,1,18,89,29,17,13,24,2,13,2,23,60,5,41,3,0,13
+PE,2611606,Recife,Subdistrito,26116060520,RPA 03 - Recife - Recife (PE),94849,312116,3655.06,Grupo 1 - Percentil 25,15.06,8.97,11,48,411,280,739,4,24,90,41,10,26,22,5,21,1,34,181,41,212,6,4,17
+PE,2611606,Recife,Subdistrito,26116060521,RPA 04 - Recife - Recife (PE),86566,278029,2648.27,Grupo 2 - Percentil 50,18.02,6.26,16,41,444,174,659,7,18,113,47,12,20,18,5,18,1,46,158,26,127,10,8,25
+PE,2611606,Recife,Subdistrito,26116060522,RPA 05 - Recife - Recife (PE),78407,259696,1606.89,Grupo 3 - Percentil 75,22.76,5.12,9,187,395,133,715,8,21,138,37,25,24,28,10,149,3,55,85,10,96,7,1,18
+PE,2611606,Recife,Subdistrito,26116060518,RPA 01 - Recife - Recife (PE),25505,77381,2089.82,Grupo 4 - Percentil 100,72.24,47.04,15,15,529,364,908,7,11,51,19,20,28,7,1,7,1,49,336,48,287,15,8,13
+PE,2611606,Recife,Subdistrito,26116060523,RPA 06 - Recife - Recife (PE),120484,382197,3563.21,Grupo 4 - Percentil 100,24.93,11.22,6,57,890,429,1376,13,37,167,55,20,38,18,9,30,5,120,420,60,326,11,10,37
+PE,2611606,Recife, ,26116069998,Não Localizado,0,0,0, ,0,0,0,17,124,63,204,1,3,35,3,6,4,4,4,9,2,12,45,11,46,7,3,9
+PE,2611606,Recife, ,26116069999,CEP Inválido,0,0,0, ,0,0,0,21,190,81,292,4,10,40,12,8,10,5,3,13,0,17,88,8,63,4,0,7
+AL,2704302,Maceió,Subdistrito,27043020509,Quarta Região - Maceió - Maceió(AL),28810,99751,1340.11,Grupo 1 - Percentil 25,9.52,2.11,1,70,24,21,115,3,5,53,7,0,6,9,1,6,0,2,6,2,13,1,0,1
+AL,2704302,Maceió,Subdistrito,27043020511,Sexta Região - Maceió- Maceió (AL),29776,105718,1254.92,Grupo 1 - Percentil 25,9.84,2.18,2,57,45,23,125,1,4,46,16,2,7,8,0,2,0,4,13,1,15,1,0,5
+AL,2704302,Maceió,Subdistrito,27043020510,Quinta Região - Maceió - Maceió (AL),47891,162208,1779.94,Grupo 2 - Percentil 50,15.91,5.73,1,117,140,93,350,5,12,91,27,10,13,15,0,7,4,23,53,11,65,4,0,10
+AL,2704302,Maceió,Subdistrito,27043020512,Sétima Região - Maceió- Maceió(AL),67926,236743,1304.57,Grupo 2 - Percentil 50,15.25,4.06,5,202,154,96,452,5,14,135,29,9,16,30,0,32,3,19,62,12,64,5,1,16
+AL,2704302,Maceió,Subdistrito,27043020508,Terceira Região - Maceió - Maceió (AL),21622,72998,3939.14,Grupo 3 - Percentil 75,28.77,11.51,0,69,141,84,294,3,10,53,18,1,3,9,1,3,5,27,72,7,68,3,1,10
+AL,2704302,Maceió,Subdistrito,27043020513,Oitava Região - Maceió - Maceió (AL),11118,37069,2007.63,Grupo 3 - Percentil 75,18.07,10.79,2,16,49,40,105,2,3,14,2,1,2,2,0,0,0,4,35,8,30,0,0,2
+AL,2704302,Maceió,Subdistrito,27043020506,Primeira Região - Maceió - Maceió (AL),33554,102535,5425.67,Grupo 4 - Percentil 100,45.84,23.31,6,114,350,239,703,5,9,84,24,6,10,10,2,1,1,47,223,29,196,17,3,36
+AL,2704302,Maceió,Subdistrito,27043020507,Segunda Região - Maceió - Maceió (AL),33362,112121,1501.44,Grupo 4 - Percentil 100,30.41,10.97,0,177,164,123,464,3,13,126,18,12,20,24,9,13,2,29,79,14,87,5,0,10
+AL,2704302,Maceió, ,27043029998,Não Localizado,0,0,0, ,0,0,0,84,94,67,245,2,3,63,17,3,6,10,2,3,0,12,46,9,52,6,0,11
+AL,2704302,Maceió, ,27043029999,CEP Inválido,0,0,0, ,0,0,0,50,40,38,128,0,3,36,7,1,3,6,2,4,0,11,16,5,30,2,0,2
+SE,2800308,Aracaju,Município,28003080500,Aracaju - Aracaju (SE),169493,569487,2831.31, ,23.6,9.29,46,102,1196,529,1827,23,51,297,73,34,46,62,11,29,4,147,465,77,402,45,4,57
+BA,2927408,Salvador,Subdistrito,29274080513,Paripe - Salvador - Salvador (BA),39375,129398,1000.53,Grupo 1 - Percentil 25,12.36,1.39,0,16,144,18,178,1,4,89,14,5,8,13,0,3,0,3,24,2,8,2,0,2
+BA,2927408,Salvador,Subdistrito,29274080516,Periperi - Salvador - Salvador (BA),25689,83741,1185.34,Grupo 1 - Percentil 25,12.66,2.87,0,5,101,24,130,4,4,63,10,3,8,5,0,0,0,3,11,5,11,1,0,2
+BA,2927408,Salvador,Subdistrito,29274080518,Pirajá- Salvador - Salvador (BA),125789,392060,1381.73,Grupo 1 - Percentil 25,14.74,2.98,3,51,524,117,692,8,16,252,36,22,29,32,3,16,1,52,123,23,64,2,5,8
+BA,2927408,Salvador,Subdistrito,29274080519,Plataforma - Salvador - Salvador (BA),21464,69633,1179.94,Grupo 1 - Percentil 25,13.07,1.87,0,5,86,13,104,1,3,55,4,8,0,3,1,1,0,6,9,7,6,0,0,0
+BA,2927408,Salvador,Subdistrito,29274080522,São Caetano - Salvador - Salvador (BA),151608,468115,1452.77,Grupo 1 - Percentil 25,17.09,4.44,0,60,740,208,1008,10,18,346,58,20,40,34,8,18,4,73,174,44,120,6,5,30
+BA,2927408,Salvador,Subdistrito,29274080526,Valéria - Salvador - Salvador (BA),59917,192657,1191.18,Grupo 1 - Percentil 25,13.5,3.11,1,13,246,60,319,3,8,132,20,8,20,7,1,5,1,27,39,12,27,2,0,7
+BA,2927408,Salvador,Subdistrito,29274080507,Brotas - Salvador - Salvador (BA),67340,204575,3250.01,Grupo 2 - Percentil 50,28.64,6.65,0,77,509,136,722,5,13,161,39,23,22,40,8,29,3,78,156,27,84,5,4,25
+BA,2927408,Salvador,Subdistrito,29274080509,Itapoã- Salvador - Salvador (BA),55211,172890,3365.84,Grupo 2 - Percentil 50,26.43,9.2,2,37,418,159,614,1,9,151,23,10,17,16,10,11,0,48,155,42,100,3,5,13
+BA,2927408,Salvador,Subdistrito,29274080515,Penha - Salvador - Salvador (BA),46345,150025,1654.33,Grupo 2 - Percentil 50,18.2,5.27,1,21,251,79,351,2,6,118,23,11,13,16,1,4,1,14,69,18,47,3,0,5
+BA,2927408,Salvador,Subdistrito,29274080521,Santo Antônio - Salvador - Salvador (BA),64352,204073,1625.88,Grupo 2 - Percentil 50,19.01,5.19,0,37,351,106,494,11,11,151,30,15,13,25,1,11,0,40,88,23,70,1,1,3
+BA,2927408,Salvador,Subdistrito,29274080523,São Cristovão - Salvador - Salvador (BA),31226,101070,1355.51,Grupo 2 - Percentil 50,20.28,6.33,0,51,154,64,269,2,3,58,17,10,17,5,2,44,0,22,37,7,40,0,0,5
+BA,2927408,Salvador,Subdistrito,29274080506,Amaralina - Salvador - Salvador (BA),94427,279033,5068.49,Grupo 3 - Percentil 75,36.55,16.7,8,49,963,466,1478,6,24,175,48,17,43,26,11,12,6,140,497,64,353,5,20,31
+BA,2927408,Salvador,Subdistrito,29274080512,Nazaré - Salvador - Salvador (BA),3387,10019,3301.67,Grupo 3 - Percentil 75,55.89,15.97,2,0,54,16,70,0,2,10,5,2,1,0,0,0,0,4,26,3,12,2,1,2
+BA,2927408,Salvador,Subdistrito,29274080514,Passo - Salvador - Salvador (BA),503,1547,1954.64,Grupo 3 - Percentil 75,77.57,32.32,1,0,11,5,16,0,0,1,1,0,0,0,0,0,0,1,8,2,3,0,0,0
+BA,2927408,Salvador,Subdistrito,29274080520,Santana - Salvador - Salvador (BA),4016,11872,2993.56,Grupo 3 - Percentil 75,53.07,24.43,0,4,59,29,92,0,1,18,4,1,4,3,0,1,0,9,24,7,18,1,0,1
+BA,2927408,Salvador,Subdistrito,29274080527,Vitória- Salvador - Salvador (BA),58066,164965,4706.89,Grupo 3 - Percentil 75,35.7,12.49,4,26,559,206,791,4,12,120,27,14,17,14,5,7,0,82,262,41,148,7,5,26
+BA,2927408,Salvador,Subdistrito,29274080508,Conceição da Praia - Salvador - Salvador (BA),152,496,2054.59,Grupo 4 - Percentil 100,1572.58,564.52,0,1,77,28,106,0,1,6,1,3,3,0,1,0,0,9,57,8,17,0,0,0
+BA,2927408,Salvador,Subdistrito,29274080511,Mares - Salvador - Salvador (BA),1371,4402,2346.71,Grupo 4 - Percentil 100,99.95,31.8,0,5,39,14,58,0,4,11,2,1,4,3,0,2,0,7,14,4,6,0,0,0
+BA,2927408,Salvador,Subdistrito,29274080517,Pilar - Salvador - Salvador (BA),419,1309,1059.91,Grupo 4 - Percentil 100,641.71,359.05,1,22,61,47,130,2,1,19,0,6,24,1,17,4,0,14,17,4,19,1,1,0
+BA,2927408,Salvador,Subdistrito,29274080524,São Pedro - Salvador - Salvador (BA),5833,14511,2969.53,Grupo 4 - Percentil 100,128.18,89.59,1,13,172,130,315,1,5,23,5,2,14,8,1,4,0,20,109,15,101,1,1,5
+BA,2927408,Salvador,Subdistrito,29274080525,Sé - Salvador - Salvador (BA),526,1388,1643.8,Grupo 4 - Percentil 100,417.87,165.71,0,0,58,23,81,1,0,4,0,0,1,0,0,0,1,3,48,7,14,1,0,1
+BA,2927408,Salvador, ,29274089998,Não Localizado,0,0,0, ,0,0,0,26,384,126,536,7,16,151,25,10,20,12,2,12,1,49,101,22,83,10,5,10
+BA,2927408,Salvador, ,29274089999,CEP Inválido,0,0,0, ,0,0,0,16,152,61,229,2,2,55,13,10,12,9,1,6,0,21,41,15,34,2,1,5
+MG,3106200,Belo Horizonte,Subdistrito,31062000569,Venda Nova - Belo Horizonte - Belo Horizonte (MG),1028,3401,2716.08,Grupo 1 - Percentil 25,5.88,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+MG,3106200,Belo Horizonte,Subdistrito,31062002567,Oeste - Belo Horizonte - Barreiro (MG),300,977,1322.84,Grupo 1 - Percentil 25,0,10.24,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+MG,3106200,Belo Horizonte,Subdistrito,31062006064,Nordeste - Belo Horizonte - Venda Nova (MG),44293,147380,1737.64,Grupo 1 - Percentil 25,19.88,3.26,0,77,216,48,341,1,8,74,48,10,3,45,1,31,0,20,39,22,23,8,0,8
+MG,3106200,Belo Horizonte,Subdistrito,31062006069,Venda Nova - Belo Horizonte - Venda Nova (MG),79031,258154,1989.96,Grupo 1 - Percentil 25,20.65,8.21,5,113,415,212,740,2,29,114,95,9,22,63,3,47,1,27,106,57,132,11,1,21
+MG,3106200,Belo Horizonte,Subdistrito,31062002561,Barreiro - Belo Horizonte - Barreiro (MG),85617,281975,1956.93,Grupo 2 - Percentil 50,22.34,8.94,1,135,494,252,881,4,30,104,103,18,27,81,6,48,0,43,153,59,166,10,2,27
+MG,3106200,Belo Horizonte,Subdistrito,31062000564,Nordeste - Belo Horizonte - Belo Horizonte (MG),47542,143012,4218.22,Grupo 2 - Percentil 50,25.45,12.31,6,62,296,176,534,1,15,56,45,24,12,33,2,27,1,26,110,48,115,7,1,11
+MG,3106200,Belo Horizonte,Subdistrito,31062006066,Norte - Belo Horizonte - Venda Nova (MG),64349,212215,2038.44,Grupo 2 - Percentil 50,20.78,9.24,1,94,346,196,636,8,25,93,67,7,16,49,2,43,0,25,98,51,129,8,0,15
+MG,3106200,Belo Horizonte,Subdistrito,31062000563,Leste - Belo Horizonte - Belo Horizonte (MG),80079,247935,3345.79,Grupo 3 - Percentil 75,26.38,14.2,9,118,527,352,997,7,26,107,82,20,32,70,3,45,0,40,210,122,198,11,2,22
+MG,3106200,Belo Horizonte,Subdistrito,31062000565,Noroeste - Belo Horizonte - Belo Horizonte (MG),107776,330337,3028.68,Grupo 3 - Percentil 75,28.91,12.08,3,173,779,399,1351,8,41,154,123,20,32,96,15,62,0,81,290,114,253,23,5,34
+MG,3106200,Belo Horizonte,Subdistrito,31062000567,Oeste - Belo Horizonte - Belo Horizonte (MG),93589,284429,4256.28,Grupo 3 - Percentil 75,27.88,11.81,6,109,678,336,1123,7,31,93,91,18,21,58,2,49,0,81,286,101,214,21,8,42
+MG,3106200,Belo Horizonte,Subdistrito,31062000562,Centro-Sul - Belo Horizonte - Belo Horizonte (MG),98732,271402,8539.1,Grupo 4 - Percentil 100,80.25,52.1,45,188,1945,1414,3547,17,64,126,122,69,117,76,4,108,1,209,1247,244,1052,28,5,58
+MG,3106200,Belo Horizonte,Subdistrito,31062000568,Pampulha - Belo Horizonte - Belo Horizonte (MG),47159,147120,4389.3,Grupo 4 - Percentil 100,30.45,13.46,7,55,386,198,639,3,12,52,44,8,8,27,2,26,0,35,193,68,122,7,7,25
+MG,3106200,Belo Horizonte,Subdistrito,31062006068,Pampulha - Belo Horizonte - Venda Nova (MG),12580,38892,4525.51,Grupo 4 - Percentil 100,31.63,16.2,2,13,108,63,184,1,6,8,14,5,4,6,1,6,0,11,58,22,37,1,1,3
+MG,3106200,Belo Horizonte, ,31062009998,Não Localizado,0,0,0, ,0,0,0,56,251,157,464,1,18,53,38,12,13,26,1,29,0,29,91,43,101,2,1,6
+MG,3106200,Belo Horizonte, ,31062009999,CEP Inválido,0,0,0, ,0,0,0,61,258,201,520,4,27,28,25,9,16,31,2,28,0,28,130,46,139,3,0,4
+ES,3205309,Vitória,Distrito,32053090500,Vitória - Vitória (ES) - excluindo os subdistritos englobados,29,132,1205.13,Grupo 1 - Percentil 25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,3205309,Vitória,Subdistrito,32053090512,Região Administrativa VII - São Pedro - Vitória - Vitória (ES),9954,33733,1419.06,Grupo 1 - Percentil 25,7.41,2.37,1,16,8,8,32,0,3,10,4,0,1,1,1,1,0,1,3,3,4,0,0,0
+ES,3205309,Vitória,Subdistrito,32053090507,Região Administrativa II - Santo Antônio - Vitória - Vitória (ES),11632,37787,1797.23,Grupo 2 - Percentil 50,16.67,6.62,2,36,25,25,86,0,2,26,8,1,1,5,1,2,0,3,12,4,19,0,1,1
+ES,3205309,Vitória,Subdistrito,32053090509,Região Administrativa IV - Maruípe - Vitória - Vitória (ES),17009,54233,2214.36,Grupo 2 - Percentil 50,16.23,6.64,6,31,51,36,118,0,6,18,12,0,2,3,1,3,0,8,26,12,21,2,1,3
+ES,3205309,Vitória,Subdistrito,32053090508,Região Administrativa III - Bento Ferreira/Jucutuquara - Vitória - Vitória (ES),10114,32351,3455.69,Grupo 3 - Percentil 75,26.89,13.6,1,23,63,44,130,2,7,9,6,0,2,0,3,4,0,4,47,13,19,4,10,0
+ES,3205309,Vitória,Subdistrito,32053091011,Região Administrativa VI - Continente - Vitória - Goiabeiras (ES),41062,116112,5505.63,Grupo 3 - Percentil 75,32.55,21.44,8,60,310,249,619,3,14,24,35,1,12,10,6,6,0,46,197,65,158,10,14,18
+ES,3205309,Vitória,Subdistrito,32053090506,Região  Administrativa I - Centro - Vitória - Vitória(ES),6582,18476,3739.04,Grupo 4 - Percentil 100,57.91,47.09,2,28,77,87,192,0,7,11,3,1,7,4,4,2,0,12,58,16,64,1,0,2
+ES,3205309,Vitória,Subdistrito,32053090510,Região Administrativa V - Praia do Canto - Vitória - Vitória (ES),12133,33904,9776.81,Grupo 4 - Percentil 100,88.19,58.11,7,38,254,197,489,1,9,6,13,3,23,6,10,7,0,45,182,33,131,3,10,7
+ES,3205309,Vitória,Distrito,32053091000,Goiabeiras - Vitória (ES) - excluindo os subdistritos englobados,0,0,0, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ES,3205309,Vitória, ,32053099998,Não Localizado,0,0,0, ,0,0,0,21,46,49,116,0,4,16,5,0,3,1,0,0,0,4,31,12,30,2,4,4
+ES,3205309,Vitória, ,32053099999,CEP Inválido,0,0,0, ,0,0,0,8,21,17,46,0,2,5,3,0,3,1,0,0,0,1,16,3,11,1,0,0
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570522,Bangu - Rio de Janeiro - Rio de Janeiro (RJ),132801,412806,1770.31,Grupo 1 - Percentil 25,9.01,4.26,6,50,316,176,542,5,7,118,60,9,21,20,7,23,0,32,77,26,116,4,9,8
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570524,Santa Cruz - Rio de Janeiro - Rio de Janeiro (RJ),112598,367406,1449.64,Grupo 1 - Percentil 25,9.12,2.48,2,28,305,91,424,6,13,153,35,9,13,13,4,11,0,28,54,12,59,1,6,7
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570528,Santa Teresa - Rio de Janeiro - Rio de Janeiro (RJ),15323,40566,2943.94,Grupo 1 - Percentil 25,9.12,3.45,2,0,35,14,49,0,1,8,1,0,0,0,0,0,0,3,18,4,8,0,2,4
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570530,Pavuna - Rio de Janeiro - Rio de Janeiro (RJ),66299,208366,1511.31,Grupo 1 - Percentil 25,8.45,3.36,3,31,142,70,243,3,11,54,26,1,6,15,2,14,0,20,23,11,46,2,5,4
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570534,Jacarezinho - Rio de Janeiro - Rio de Janeiro (RJ),11349,37792,1163.08,Grupo 1 - Percentil 25,8.47,2.12,0,6,26,8,40,0,1,14,6,0,2,5,0,1,0,4,1,1,5,0,0,0
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570535,Complexo do Alemão- Rio de Janeiro - Rio de Janeiro (RJ),21035,69115,1187.34,Grupo 1 - Percentil 25,2.17,1.01,0,0,15,7,22,0,1,4,4,2,0,0,0,0,0,4,0,1,4,2,0,0
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570536,Maré - Rio de Janeiro - Rio de Janeiro (RJ),41731,129715,1228.56,Grupo 1 - Percentil 25,6.4,3.39,1,5,77,44,126,0,2,28,12,4,10,2,1,2,0,11,20,7,26,1,0,0
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570538,Cidade de Deus - Rio de Janeiro - Rio de Janeiro (RJ),11388,36505,1437.93,Grupo 1 - Percentil 25,7.94,2.47,2,2,25,9,36,0,0,9,6,0,1,0,0,2,0,7,2,2,5,0,1,1
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570539,Vigário Geral - Rio de Janeiro - Rio de Janeiro (RJ),42545,135746,1621.4,Grupo 1 - Percentil 25,7.96,3.54,2,8,98,48,154,2,5,33,20,4,8,3,0,5,1,15,13,12,26,0,1,6
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570516,Penha - Rio de Janeiro - Rio de Janeiro (RJ),58584,184719,2249.31,Grupo 2 - Percentil 50,11.96,7.63,5,16,200,141,357,1,12,42,32,4,14,10,0,6,0,35,66,30,88,5,4,8
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570520,Madureira - Rio de Janeiro - Rio de Janeiro (RJ),124437,371585,2251.14,Grupo 2 - Percentil 50,12.86,11.28,16,66,396,419,881,9,24,99,78,15,65,28,5,33,3,53,103,60,260,9,22,15
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570521,Jacarepaguá- Rio de Janeiro - Rio de Janeiro (RJ),191764,570233,3154.84,Grupo 2 - Percentil 50,13.56,9.08,12,75,686,518,1279,4,32,160,86,9,58,24,5,46,4,99,256,113,299,6,38,40
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570523,Campo Grande - Rio de Janeiro - Rio de Janeiro (RJ),171702,541397,2012.48,Grupo 2 - Percentil 50,13.08,5.97,4,80,624,323,1027,7,30,214,94,15,35,25,11,44,4,84,165,67,193,9,15,15
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570527,Anchieta - Rio de Janeiro - Rio de Janeiro (RJ),51727,158235,1893.41,Grupo 2 - Percentil 50,9.92,5.5,5,24,128,87,239,3,9,32,25,3,14,13,2,9,1,16,35,16,49,6,1,5
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570531,Guaratiba - Rio de Janeiro - Rio de Janeiro (RJ),37644,122687,1572.44,Grupo 2 - Percentil 50,12.47,3.59,0,11,142,44,197,1,2,68,23,1,2,2,3,6,0,10,34,9,28,0,5,3
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570533,Rocinha - Rio de Janeiro - Rio de Janeiro (RJ),23399,69351,1209.2,Grupo 2 - Percentil 50,9.52,4.61,0,13,53,32,98,0,0,32,4,2,2,10,1,2,0,4,9,16,13,0,1,2
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570537,Realengo - Rio de Janeiro - Rio de Janeiro (RJ),79533,242648,2103.22,Grupo 2 - Percentil 50,9.77,5.07,7,18,212,123,353,6,13,57,46,5,22,8,0,10,1,31,45,10,73,1,16,9
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570506,Portuária - Rio de Janeiro - Rio de Janeiro (RJ),15667,48043,1455.53,Grupo 3 - Percentil 75,16.86,18.11,1,5,75,87,167,0,5,10,7,2,9,0,1,4,0,6,44,18,56,0,4,1
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570514,Vila Isabel - Rio de Janeiro - Rio de Janeiro (RJ),69826,188815,4955.36,Grupo 3 - Percentil 75,15.2,17.21,11,23,253,325,601,0,14,36,45,5,29,6,4,13,0,33,107,79,187,4,26,13
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570515,Ramos - Rio de Janeiro - Rio de Janeiro (RJ),51179,152638,2207.91,Grupo 3 - Percentil 75,16.51,12.84,8,20,224,196,440,2,9,45,39,2,17,9,3,8,0,32,84,47,126,3,3,11
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570517,Méier - Rio de Janeiro - Rio de Janeiro (RJ),137229,394460,3310.34,Grupo 3 - Percentil 75,15.49,12.75,19,54,538,503,1095,7,33,102,87,10,43,18,4,32,2,70,205,95,330,8,25,24
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570519,Irajá- Rio de Janeiro - Rio de Janeiro (RJ),69102,202842,2624.77,Grupo 3 - Percentil 75,15.18,10.65,9,31,268,216,515,3,19,46,36,4,28,4,3,24,1,45,104,31,145,4,7,11
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570525,Ilha do Governador - Rio de Janeiro - Rio de Janeiro (RJ),71743,211663,3450.18,Grupo 3 - Percentil 75,15.31,12.9,10,31,283,273,587,4,8,49,32,4,33,18,5,8,1,32,147,30,188,5,16,7
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570526,Ilha de Paquetá - Rio de Janeiro - Rio de Janeiro (RJ),1253,3358,2811,Grupo 3 - Percentil 75,17.87,5.96,0,0,6,2,8,0,0,0,1,0,0,0,0,0,0,1,4,0,2,0,0,0
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570532,Inhaúma - Rio de Janeiro - Rio de Janeiro (RJ),44966,134330,2171.26,Grupo 3 - Percentil 75,14.07,10.35,6,13,170,139,322,2,4,34,22,2,13,3,3,7,2,36,67,14,107,2,1,3
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570507,Centro - Rio de Janeiro - Rio de Janeiro (RJ),19622,40834,2819.75,Grupo 4 - Percentil 100,214.53,209.38,2,13,861,855,1729,4,17,47,29,6,102,6,3,4,0,72,678,126,604,5,18,8
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570508,Rio Comprido - Rio de Janeiro - Rio de Janeiro (RJ),26058,77959,2548.04,Grupo 4 - Percentil 100,20.14,17.7,4,15,138,138,291,2,7,19,14,0,15,3,5,7,0,12,78,20,92,1,10,6
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570509,Botafogo - Rio de Janeiro - Rio de Janeiro (RJ),102581,238801,7141.54,Grupo 4 - Percentil 100,28.85,24.54,16,40,633,586,1259,1,32,46,48,13,46,11,1,28,0,63,400,52,430,8,50,30
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570510,Copacabana - Rio de Janeiro - Rio de Janeiro (RJ),72269,160912,6716.5,Grupo 4 - Percentil 100,29.21,26.78,4,30,436,431,897,2,39,34,32,5,40,12,5,13,0,59,254,83,293,9,6,11
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570511,Lagoa - Rio de Janeiro - Rio de Janeiro (RJ),67877,167251,10484.35,Grupo 4 - Percentil 100,34.26,28.28,12,21,540,473,1034,1,24,40,27,8,50,12,2,7,0,84,346,92,288,15,28,10
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570512,São  Cristovão - Rio de Janeiro - Rio de Janeiro (RJ),26798,81295,2147.7,Grupo 4 - Percentil 100,37.76,23.49,2,45,260,191,496,0,8,40,20,16,13,16,0,29,0,43,121,57,114,2,5,12
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570513,Tijuca - Rio de Janeiro - Rio de Janeiro (RJ),68303,180869,5927.26,Grupo 4 - Percentil 100,22.28,21.34,8,26,369,386,781,2,21,28,33,8,48,8,3,15,0,55,207,56,259,4,19,15
+RJ,3304557,Rio de Janeiro,Subdistrito,33045570529,Barra da Tijuca - Rio de Janeiro - Rio de Janeiro (RJ),106113,300544,8101.64,Grupo 4 - Percentil 100,34.64,30.88,3,43,995,928,1966,5,46,108,63,9,99,16,10,17,2,141,590,187,552,17,71,33
+RJ,3304557,Rio de Janeiro, ,33045579998,Não Localizado,0,0,0, ,0,0,0,32,272,187,491,5,8,81,47,5,12,6,3,23,2,35,81,39,117,3,14,10
+RJ,3304557,Rio de Janeiro, ,33045579999,CEP Inválido,0,0,0, ,0,0,0,35,269,210,514,2,15,73,24,10,36,11,5,19,1,39,99,31,133,7,2,7
+SP,3550308,São Paulo,Distrito,35503081100,Brasilândia - São Paulo (SP),76997,264850,1726.78,Grupo 1 - Percentil 25,12.42,2.3,14,69,246,61,376,1,24,113,26,2,9,23,1,45,0,33,21,17,35,7,0,19
+SP,3550308,São Paulo,Distrito,35503081300,Cachoeirinha - São Paulo (SP),42683,143425,2313.96,Grupo 1 - Percentil 25,14.43,5.51,8,45,154,79,278,3,5,45,19,3,13,20,0,25,1,26,22,8,57,12,2,17
+SP,3550308,São Paulo,Distrito,35503081900,Capão Redondo - São Paulo (SP),81033,268568,1794.51,Grupo 1 - Percentil 25,14.56,3.5,12,71,308,94,473,3,18,105,35,6,13,29,2,40,2,45,70,19,60,1,4,21
+SP,3550308,São Paulo,Distrito,35503082200,Cidade Ademar - São Paulo (SP),80858,266542,2136.93,Grupo 1 - Percentil 25,15.53,5.55,15,98,301,148,547,4,23,90,42,6,11,42,3,53,1,46,54,23,113,11,2,23
+SP,3550308,São Paulo,Distrito,35503082500,Cidade Tiradentes - São Paulo (SP),60740,211420,1416.84,Grupo 1 - Percentil 25,10.6,2.7,13,39,172,57,268,1,6,92,19,6,15,27,0,12,1,12,26,4,37,5,1,4
+SP,3550308,São Paulo,Distrito,35503083000,Grajaú - São Paulo (SP),103074,360512,1577.49,Grupo 1 - Percentil 25,11.68,3.02,18,80,323,109,512,12,18,129,33,2,18,25,4,51,1,37,61,22,68,6,3,22
+SP,3550308,São Paulo,Distrito,35503083100,Guaianases - São Paulo (SP),30547,103844,1752.58,Grupo 1 - Percentil 25,15.5,4.33,13,26,122,45,193,1,5,60,18,1,5,16,0,10,0,13,12,5,35,5,1,6
+SP,3550308,São Paulo,Distrito,35503083300,Iguatemi - São Paulo (SP),36151,127636,1505.35,Grupo 1 - Percentil 25,13.4,2.59,9,48,114,33,195,2,2,55,15,0,8,16,0,32,0,14,14,3,22,1,1,10
+SP,3550308,São Paulo,Distrito,35503083600,Itaim Paulista - São Paulo (SP),64319,223950,1514.55,Grupo 1 - Percentil 25,12.95,5.18,15,51,224,116,391,0,13,56,46,2,25,25,1,25,0,46,40,13,78,8,0,13
+SP,3550308,São Paulo,Distrito,35503083900,Jaçanã - São Paulo (SP),27564,93839,2421,Grupo 1 - Percentil 25,10.66,5.12,4,15,81,48,144,2,2,25,11,2,6,2,0,13,0,21,9,9,33,3,0,6
+SP,3550308,São Paulo,Distrito,35503084200,Jaraguá - São Paulo (SP),53239,184635,1936.52,Grupo 1 - Percentil 25,13.59,3.41,13,45,193,63,301,0,17,58,27,6,11,14,1,30,0,25,39,1,51,4,4,13
+SP,3550308,São Paulo,Distrito,35503084300,Jardim Ângela - São Paulo (SP),86894,295324,1452.55,Grupo 1 - Percentil 25,13.75,2.95,6,67,333,87,487,4,18,143,50,2,12,29,1,37,0,36,46,14,61,16,2,16
+SP,3550308,São Paulo,Distrito,35503084700,José Bonifácio - São Paulo (SP),37832,124009,1870.17,Grupo 1 - Percentil 25,8.31,3.06,10,15,78,38,131,2,4,21,15,4,3,8,0,7,0,13,12,6,29,3,0,4
+SP,3550308,São Paulo,Distrito,35503085100,Mandaqui - São Paulo (SP),35416,107284,3834.51,Grupo 1 - Percentil 25,14.73,8.86,9,24,125,95,244,0,4,22,17,2,10,11,1,12,0,20,42,11,74,5,3,10
+SP,3550308,São Paulo,Distrito,35503085200,Marsilac - São Paulo (SP),2349,8185,1226.46,Grupo 1 - Percentil 25,11,0,0,5,4,0,9,0,0,4,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+SP,3550308,São Paulo,Distrito,35503085500,Parelheiros - São Paulo (SP),37141,130860,1427.5,Grupo 1 - Percentil 25,12.15,2.52,8,32,119,33,184,0,6,56,13,2,3,11,0,21,0,14,14,6,24,4,0,10
+SP,3550308,São Paulo,Distrito,35503085800,Pedreira - São Paulo (SP),42056,144194,1794.93,Grupo 1 - Percentil 25,11.03,3.19,4,40,115,46,201,2,10,47,14,1,2,15,0,25,2,5,19,10,32,2,2,13
+SP,3550308,São Paulo,Distrito,35503086100,Perus - São Paulo (SP),22788,79962,1666.45,Grupo 1 - Percentil 25,14.26,3.88,8,20,86,31,137,2,7,32,16,3,5,13,0,7,0,7,15,3,23,0,0,4
+SP,3550308,São Paulo,Distrito,35503087500,São Rafael - São Paulo (SP),40589,143895,1602.5,Grupo 1 - Percentil 25,11.26,3.54,9,36,117,51,204,0,6,44,21,1,7,18,4,14,0,27,16,11,33,1,1,0
+SP,3550308,São Paulo,Distrito,35503087600,Sapopemba - São Paulo (SP),84686,284385,1829.54,Grupo 1 - Percentil 25,13.89,3.45,21,125,249,98,472,0,17,74,32,4,13,28,3,94,0,60,26,25,60,17,4,15
+SP,3550308,São Paulo,Distrito,35503088100,Tremembé- Sâo Paulo (SP),57372,196537,2472.06,Grupo 1 - Percentil 25,13.53,4.12,12,39,215,81,335,1,8,65,27,2,12,21,0,18,1,51,33,10,58,10,2,16
+SP,3550308,São Paulo,Distrito,35503088300,Vila Andrade - São Paulo (SP),40826,126882,6072.15,Grupo 1 - Percentil 25,14.58,7.72,4,14,167,98,279,1,12,23,14,1,14,6,1,7,1,32,65,3,80,5,6,8
+SP,3550308,São Paulo,Distrito,35503088400,Vila Curuçá - São Paulo (SP),43486,148879,1724.22,Grupo 1 - Percentil 25,13.77,3.76,12,42,151,56,249,1,6,42,24,2,11,15,1,26,1,40,22,8,36,6,1,7
+SP,3550308,São Paulo,Distrito,35503089600,Lajeado - São Paulo (SP),46653,164475,1453.6,Grupo 1 - Percentil 25,10.82,3.16,5,46,127,52,225,0,6,52,31,0,15,25,1,20,0,12,15,12,25,5,0,6
+SP,3550308,São Paulo,Distrito,35503080200,Alto de Pinheiros - São Paulo (SP),15408,42683,11035.7,Grupo 2 - Percentil 50,22.26,8.67,4,12,79,37,128,0,5,8,8,1,4,6,1,5,0,19,26,0,33,1,3,8
+SP,3550308,São Paulo,Distrito,35503080300,Anhanguera - São Paulo (SP),19437,65710,1788.38,Grupo 2 - Percentil 50,16.59,3.35,2,20,87,22,129,1,6,40,6,2,3,11,0,9,0,13,11,5,14,3,0,5
+SP,3550308,São Paulo,Distrito,35503080500,Artur Alvim - São Paulo (SP),33712,105210,2309.72,Grupo 2 - Percentil 50,19.29,7.22,12,53,138,76,267,1,7,45,12,6,17,16,2,35,2,30,21,7,50,6,2,8
+SP,3550308,São Paulo,Distrito,35503081700,Campo Limpo - São Paulo (SP),63867,211151,2388.44,Grupo 2 - Percentil 50,18.85,7.25,12,78,308,153,539,3,14,82,33,9,21,26,1,51,0,54,70,17,115,13,3,27
+SP,3550308,São Paulo,Distrito,35503081800,Cangaiba - São Paulo (SP),41250,136550,2284.62,Grupo 2 - Percentil 50,20.65,5.42,13,89,180,74,343,1,11,48,25,7,23,30,2,57,1,38,22,12,38,9,1,18
+SP,3550308,São Paulo,Distrito,35503082300,Cidade Dutra - São Paulo (SP),57691,196007,2336.38,Grupo 2 - Percentil 50,19.54,7.55,12,63,308,148,519,3,12,74,40,8,17,22,0,41,4,46,75,20,107,17,5,28
+SP,3550308,São Paulo,Distrito,35503082800,Ermelino Matarazzo - São Paulo (SP),34029,113525,2117.88,Grupo 2 - Percentil 50,18.94,7.4,8,39,168,84,291,2,10,66,15,1,20,22,3,14,0,34,27,5,59,2,2,9
+SP,3550308,São Paulo,Distrito,35503082900,Freguesia do Ó  - São  Paulo (SP),45123,142100,3073.77,Grupo 2 - Percentil 50,17.45,8.73,12,40,196,124,360,2,18,48,22,2,18,15,0,25,1,41,40,11,94,5,4,14
+SP,3550308,São Paulo,Distrito,35503083700,Itaquera - São Paulo (SP),60185,204525,2109.95,Grupo 2 - Percentil 50,17.9,8.26,22,56,288,169,513,9,16,90,32,5,28,33,2,21,1,52,59,16,124,3,6,16
+SP,3550308,São Paulo,Distrito,35503083800,Jabaquara - São Paulo (SP),73200,223221,3763.6,Grupo 2 - Percentil 50,19.8,10.03,14,53,375,224,652,5,16,83,39,9,23,21,1,31,0,60,106,26,175,19,10,28
+SP,3550308,São Paulo,Distrito,35503084400,Jardim Helena - São Paulo (SP),38247,134979,1469.29,Grupo 2 - Percentil 50,17.93,4.52,11,60,171,61,292,1,7,60,24,5,10,20,1,39,1,32,24,14,36,5,3,10
+SP,3550308,São Paulo,Distrito,35503084600,Jardim São Luís- São Paulo (SP),82615,267721,1941.65,Grupo 2 - Percentil 50,17.33,6.01,15,60,389,161,610,7,10,129,44,7,23,28,2,30,1,62,85,19,118,9,6,30
+SP,3550308,São Paulo,Distrito,35503085000,Limão - São Paulo (SP),24861,80114,3086.15,Grupo 2 - Percentil 50,15.73,7.86,9,14,103,63,180,2,5,22,12,1,6,4,0,10,0,17,26,10,47,8,1,9
+SP,3550308,São Paulo,Distrito,35503085700,Parque do Carmo - São Paulo (SP),20285,68103,2264.33,Grupo 2 - Percentil 50,18.94,8.66,6,26,97,59,182,1,3,38,11,0,9,9,1,16,0,14,18,7,43,4,2,6
+SP,3550308,São Paulo,Distrito,35503086300,Pirituba - São Paulo (SP),53342,167825,3034.21,Grupo 2 - Percentil 50,17.52,6.67,18,57,219,112,388,2,14,55,29,10,19,24,1,32,2,38,42,9,82,3,5,21
+SP,3550308,São Paulo,Distrito,35503086400,Ponte Rasa - São Paulo (SP),28667,93841,2525.04,Grupo 2 - Percentil 50,22.27,6.93,8,48,153,65,266,2,11,44,14,6,13,14,6,28,0,29,30,6,46,6,1,10
+SP,3550308,São Paulo,Distrito,35503086500,Raposo Tavares - São Paulo (SP),29865,99266,2650.59,Grupo 2 - Percentil 50,16.62,5.64,7,30,128,56,214,1,5,46,17,2,10,9,3,18,0,17,25,5,41,3,3,9
+SP,3550308,São Paulo,Distrito,35503087200,São Lucas - São Paulo (SP),45770,142139,2735.23,Grupo 2 - Percentil 50,16.39,7.04,14,62,157,100,319,2,6,30,20,3,13,17,3,42,0,49,24,14,73,10,3,10
+SP,3550308,São Paulo,Distrito,35503086800,Sacomã - São Paulo (SP),79473,247679,2844.87,Grupo 2 - Percentil 50,16.51,7.43,22,80,307,184,571,4,19,81,47,13,16,33,2,45,0,62,50,25,143,9,5,17
+SP,3550308,São Paulo,Distrito,35503087400,São Miguel - São Paulo (SP),27868,91835,1986.97,Grupo 2 - Percentil 50,22.32,8.93,8,33,164,82,279,0,7,40,20,3,10,15,3,15,2,31,44,7,63,4,5,10
+SP,3550308,São Paulo,Distrito,35503088200,Tucuruvi - São Paulo (SP),32540,97843,3858.62,Grupo 2 - Percentil 50,22.89,15.74,9,37,178,154,369,4,13,29,21,7,24,13,2,22,1,40,45,12,117,7,2,10
+SP,3550308,São Paulo,Distrito,35503088700,Vila Jacuí - São Paulo (SP),41658,142313,1836.57,Grupo 2 - Percentil 50,17.29,4.29,10,63,173,61,297,2,7,59,24,4,6,23,1,39,0,26,31,7,48,3,2,15
+SP,3550308,São Paulo,Distrito,35503089200,Vila Medeiros - São Paulo (SP),39905,129836,2355.98,Grupo 2 - Percentil 50,16.64,7.01,10,49,157,91,297,1,9,39,24,9,15,21,0,28,0,38,22,13,63,7,1,7
+SP,3550308,São Paulo,Distrito,35503089500,São Domingos - São Paulo (SP),26617,84690,2964.2,Grupo 2 - Percentil 50,18.42,8.5,6,26,124,72,222,1,3,43,11,3,5,6,1,19,0,20,22,10,57,1,2,18
+SP,3550308,São Paulo,Distrito,35503080100,Água Rasa - São Paulo (SP),28652,84787,4009.81,Grupo 3 - Percentil 75,31.14,13.8,14,63,187,117,367,1,8,30,22,11,8,16,0,47,0,48,40,17,92,3,1,23
+SP,3550308,São Paulo,Distrito,35503080400,Aricanduva - São Paulo (SP),27661,89557,2573.54,Grupo 3 - Percentil 75,34.61,9.71,11,109,190,87,386,1,8,34,24,5,13,19,2,88,0,64,31,12,62,10,3,10
+SP,3550308,São Paulo,Distrito,35503080800,Belém - São Paulo (SP),14323,42974,4100.37,Grupo 3 - Percentil 75,28.62,32.11,6,9,108,138,255,0,3,22,9,6,12,7,0,2,0,18,41,13,113,1,0,8
+SP,3550308,São Paulo,Distrito,35503081400,Cambuci - São Paulo (SP),12645,35322,4970.44,Grupo 3 - Percentil 75,33.41,31.71,2,8,108,112,228,3,4,10,12,4,16,6,1,1,1,7,57,5,90,2,4,5
+SP,3550308,São Paulo,Distrito,35503081600,Campo Grande - São Paulo (SP),33619,100632,5294.67,Grupo 3 - Percentil 75,34.38,23.55,7,74,265,237,576,3,8,29,31,0,26,12,0,62,1,61,87,16,194,13,9,24
+SP,3550308,São Paulo,Distrito,35503082100,Casa Verde - São Paulo (SP),27035,85305,3562.34,Grupo 3 - Percentil 75,31.89,17.7,11,46,215,151,412,1,10,31,16,4,17,18,2,26,1,76,43,27,106,20,3,11
+SP,3550308,São Paulo,Distrito,35503082400,Cidade Líder - São Paulo (SP),37561,126447,2323.67,Grupo 3 - Percentil 75,23.25,6.72,8,75,211,85,371,0,5,64,22,3,14,18,2,55,0,77,19,10,61,11,2,8
+SP,3550308,São Paulo,Distrito,35503082700,Cursino - São Paulo (SP),35554,108905,4555.86,Grupo 3 - Percentil 75,27.64,11.94,12,68,221,130,419,1,13,45,22,6,19,18,6,44,2,49,49,18,91,12,3,21
+SP,3550308,São Paulo,Distrito,35503083400,Ipiranga - São Paulo (SP),36572,106144,4442.28,Grupo 3 - Percentil 75,34.48,31.09,13,35,318,330,683,3,19,45,27,11,27,18,2,15,1,64,112,39,263,7,5,25
+SP,3550308,São Paulo,Distrito,35503084000,Jaguara - São Paulo (SP),7935,24865,3069.6,Grupo 3 - Percentil 75,34.59,10.05,5,27,54,25,106,0,6,7,11,1,0,6,3,18,0,13,11,2,23,0,2,3
+SP,3550308,São Paulo,Distrito,35503084100,Jaguaré- São Paulo (SP),16390,49794,3682.63,Grupo 3 - Percentil 75,25.51,16.27,4,22,101,81,204,0,9,11,8,0,7,11,1,10,0,18,45,6,68,3,2,5
+SP,3550308,São Paulo,Distrito,35503085400,Morumbi - São Paulo (SP),15448,46706,12333.36,Grupo 3 - Percentil 75,29.55,14.35,4,15,119,67,201,6,3,9,9,1,14,6,3,6,0,26,51,3,50,1,2,11
+SP,3550308,São Paulo,Distrito,35503085900,Penha - São Paulo (SP),41896,127470,3136.57,Grupo 3 - Percentil 75,28.32,15.69,15,54,292,200,546,2,18,44,29,9,29,24,6,24,3,65,80,8,160,17,6,22
+SP,3550308,São Paulo,Distrito,35503086000,Perdizes - São Paulo (SP),43635,110448,8360.12,Grupo 3 - Percentil 75,27.16,18.65,6,20,274,206,500,2,14,35,23,5,18,13,1,6,2,40,110,21,165,5,5,35
+SP,3550308,São Paulo,Distrito,35503086700,Rio Pequeno - São Paulo (SP),37308,118161,4271.27,Grupo 3 - Percentil 75,24.97,8.97,10,77,208,106,391,0,7,46,25,6,25,17,3,57,1,41,49,7,73,12,2,20
+SP,3550308,São Paulo,Distrito,35503086900,Santa Cecília - São Paulo (SP),35951,82488,5148.16,Grupo 3 - Percentil 75,29.46,30.19,6,20,217,249,486,4,11,27,14,4,28,16,0,4,0,29,118,18,203,3,0,7
+SP,3550308,São Paulo,Distrito,35503087300,São Mateus - São Paulo (SP),46692,154935,2016.66,Grupo 3 - Percentil 75,24.98,8,20,84,283,124,491,2,16,73,29,10,18,23,3,58,1,77,44,14,91,12,8,12
+SP,3550308,São Paulo,Distrito,35503087700,Saúde - São Paulo (SP),49278,130415,6802.12,Grupo 3 - Percentil 75,33.28,25.07,15,40,379,327,746,4,26,38,32,8,39,18,1,21,3,71,150,21,264,12,2,36
+SP,3550308,São Paulo,Distrito,35503088500,Vila Formosa - São Paulo (SP),30412,94532,3921.82,Grupo 3 - Percentil 75,33.96,13.33,8,96,217,126,439,2,9,46,20,7,20,18,3,75,2,56,55,9,95,5,4,13
+SP,3550308,São Paulo,Distrito,35503088900,Vila Maria - São Paulo (SP),35242,112302,2631.68,Grupo 3 - Percentil 75,30.28,21.19,11,53,276,238,567,2,9,75,42,15,31,25,2,26,2,42,66,31,174,7,3,15
+SP,3550308,São Paulo,Distrito,35503089000,Vila Mariana - São Paulo (SP),51822,129017,9332.44,Grupo 3 - Percentil 75,35.89,34.1,17,25,421,440,886,3,15,36,40,2,45,16,0,9,1,88,198,24,370,7,6,26
+SP,3550308,São Paulo,Distrito,35503089100,Vila Matilde - São Paulo (SP),33491,104642,3085.71,Grupo 3 - Percentil 75,29.82,16.05,12,47,253,168,468,4,17,37,28,6,20,24,3,20,1,61,62,22,125,15,9,14
+SP,3550308,São Paulo,Distrito,35503089300,Vila Prudente - São Paulo (SP),34707,103406,3563.65,Grupo 3 - Percentil 75,24.08,16.15,9,47,193,167,407,3,14,30,19,5,23,18,2,27,1,35,56,15,128,9,5,17
+SP,3550308,São Paulo,Distrito,35503089400,Vila Sônia - São Paulo (SP),34658,108170,5495.48,Grupo 3 - Percentil 75,24.96,10.08,7,46,217,109,372,2,8,37,21,7,21,6,4,36,3,48,60,11,74,7,2,25
+SP,3550308,São Paulo,Distrito,35503080600,Barra Funda - São Paulo (SP),5623,14152,6872.28,Grupo 4 - Percentil 100,91.86,105.99,2,1,127,150,278,1,3,3,8,0,12,1,0,0,1,12,92,8,129,4,3,1
+SP,3550308,São Paulo,Distrito,35503080700,Bela Vista - São Paulo (SP),29967,66813,5820.14,Grupo 4 - Percentil 100,49.09,65.56,5,11,312,438,761,1,10,34,26,3,52,6,1,4,0,42,172,23,363,5,5,14
+SP,3550308,São Paulo,Distrito,35503080900,Bom Retiro - São Paulo (SP),10620,32366,2922.3,Grupo 4 - Percentil 100,73.22,77.86,3,17,217,252,486,1,4,43,15,6,20,11,2,4,0,29,105,18,214,4,0,10
+SP,3550308,São Paulo,Distrito,35503081000,Brás - São Paulo (SP),10110,28705,2783.64,Grupo 4 - Percentil 100,93.71,76.29,5,69,195,219,483,1,3,36,12,12,16,4,2,63,1,56,69,5,197,1,2,3
+SP,3550308,São Paulo,Distrito,35503081200,Butantã- São Paulo (SP),18542,52635,6098.67,Grupo 4 - Percentil 100,37.62,22.04,8,22,168,116,306,1,9,15,15,3,12,4,5,13,1,31,68,6,97,4,5,17
+SP,3550308,São Paulo,Distrito,35503081500,Campo Belo - São Paulo (SP),24049,65349,8780.31,Grupo 4 - Percentil 100,41.32,29.99,11,18,241,196,455,2,13,17,26,2,29,8,1,9,1,50,104,17,149,8,1,18
+SP,3550308,São Paulo,Distrito,35503082000,Carrão - São Paulo (SP),27115,82894,3791.06,Grupo 4 - Percentil 100,42.46,17.73,10,79,263,147,489,0,13,38,26,5,24,25,2,52,0,100,44,9,114,17,3,17
+SP,3550308,São Paulo,Distrito,35503082600,Consolação - São Paulo (SP),26339,57138,8180.43,Grupo 4 - Percentil 100,42.88,47.78,6,10,229,273,512,0,9,13,16,1,28,7,0,3,0,31,148,27,218,3,1,7
+SP,3550308,São Paulo,Distrito,35503083200,Moema - São Paulo (SP),34821,83223,11826.52,Grupo 4 - Percentil 100,66.69,41.82,10,22,523,348,893,0,25,33,45,3,41,11,3,8,0,85,290,33,274,11,8,23
+SP,3550308,São Paulo,Distrito,35503083500,Itaim Bibi - São Paulo (SP),39230,92003,9647.52,Grupo 4 - Percentil 100,110.11,73.48,12,15,986,676,1677,2,27,45,58,6,70,7,2,6,2,112,668,45,559,19,11,38
+SP,3550308,São Paulo,Distrito,35503084500,Jardim Paulista - São Paulo (SP),39701,88428,10421.37,Grupo 4 - Percentil 100,60.61,42.41,8,14,514,375,903,1,17,22,34,3,47,9,2,3,1,59,355,16,311,3,4,16
+SP,3550308,São Paulo,Distrito,35503084800,Lapa - São Paulo (SP),24085,64906,6691.49,Grupo 4 - Percentil 100,62.24,54.23,9,48,347,352,747,2,7,59,30,11,40,25,5,18,1,76,131,34,277,7,3,21
+SP,3550308,São Paulo,Distrito,35503084900,Liberdade - São Paulo (SP),27314,67458,5261.16,Grupo 4 - Percentil 100,36.62,31.58,8,10,229,213,452,3,8,40,19,2,20,8,0,2,1,36,100,20,172,4,5,12
+SP,3550308,São Paulo,Distrito,35503085300,Mooca - São Paulo (SP),26456,73905,5391.45,Grupo 4 - Percentil 100,39.37,39.37,12,25,254,291,570,4,11,29,29,9,23,9,2,14,0,34,103,23,245,5,6,24
+SP,3550308,São Paulo,Distrito,35503085600,Pari - São Paulo (SP),5543,17164,2983.5,Grupo 4 - Percentil 100,55.35,67,3,9,83,115,207,0,2,16,4,1,5,6,0,3,0,11,42,6,104,2,1,4
+SP,3550308,São Paulo,Distrito,35503086200,Pinheiros - São Paulo (SP),27083,64987,8916.16,Grupo 4 - Percentil 100,100.02,92.33,6,26,618,600,1244,4,18,41,35,8,66,16,1,9,0,86,381,86,448,14,7,24
+SP,3550308,São Paulo,Distrito,35503086600,República - São Paulo (SP),26344,56458,3277.44,Grupo 4 - Percentil 100,60.22,95.47,3,12,325,539,876,3,12,32,16,3,62,6,0,6,3,43,201,35,439,5,2,8
+SP,3550308,São Paulo,Distrito,35503087000,Santana - São Paulo (SP),40975,115383,5845.72,Grupo 4 - Percentil 100,36.92,33.63,16,36,374,388,798,2,17,37,42,5,53,22,4,10,1,68,163,32,302,4,3,33
+SP,3550308,São Paulo,Distrito,35503087100,Santo Amaro - São Paulo (SP),25374,70822,8522.6,Grupo 4 - Percentil 100,86.7,80.62,9,34,571,571,1176,0,4,53,34,5,82,17,5,12,3,87,330,21,465,13,13,32
+SP,3550308,São Paulo,Distrito,35503087800,Sé - São Paulo (SP),9098,23595,2370.4,Grupo 4 - Percentil 100,192.41,172.92,1,116,337,408,861,2,5,74,13,12,37,26,15,75,2,59,161,13,356,7,0,4
+SP,3550308,São Paulo,Distrito,35503087900,Socorro - São Paulo (SP),12429,37697,5666.47,Grupo 4 - Percentil 100,44.83,30.51,5,22,142,115,279,1,9,19,13,1,9,6,0,16,0,18,66,11,95,8,1,6
+SP,3550308,São Paulo,Distrito,35503088000,Tatuapé - São Paulo (SP),32734,91140,6033.36,Grupo 4 - Percentil 100,44.77,37.85,10,23,375,345,743,4,14,28,27,4,46,14,1,8,2,78,190,24,273,10,3,17
+SP,3550308,São Paulo,Distrito,35503088600,Vila Guilherme - São Paulo (SP),17750,54218,3702.28,Grupo 4 - Percentil 100,36.33,28.22,9,18,170,153,341,1,8,17,21,2,9,6,1,11,0,32,70,14,130,6,4,9
+SP,3550308,São Paulo,Distrito,35503088800,Vila Leopoldina - São Paulo (SP),13589,37852,8530.12,Grupo 4 - Percentil 100,81.63,40.68,2,106,201,154,461,3,13,16,15,4,17,15,11,80,0,46,80,7,130,8,1,15
+SP,3550308,São Paulo, ,35503089998,Não Localizado,0,0,0, ,0,0,0,894,5310,3954,10158,71,355,943,628,83,469,445,48,401,27,868,1898,358,3100,96,63,305
+SP,3550308,São Paulo, ,35503089999,CEP Inválido,0,0,0, ,0,0,0,137,684,388,1209,9,52,128,78,7,57,46,11,80,2,133,230,27,302,19,4,24
+PR,4106902,Curitiba,Subdistrito,41069020504,Administração Regional da Boa Vista (R.4.BV) - Curitiba - Curitiba (PR),81118,247706,3727.49,Grupo 1 - Percentil 25,26.56,12.15,13,40,605,301,946,10,30,157,60,22,34,17,3,17,4,126,163,86,177,3,9,28
+PR,4106902,Curitiba,Subdistrito,41069020508,Administração Regional do Bairro Novo (R.10.BN) - Curitiba - Curitiba (PR),52753,174900,1961.72,Grupo 1 - Percentil 25,22.81,6.52,1,39,359,114,512,4,19,157,47,12,18,16,2,18,2,53,60,40,54,3,0,7
+PR,4106902,Curitiba,Subdistrito,41069020503,Administração Regional do Cajuru (R.3.CJ) - Curitiba - Curitiba (PR),67215,215021,3133.99,Grupo 2 - Percentil 50,29.67,10.46,10,71,557,225,853,3,19,181,55,13,18,30,9,29,2,116,143,45,160,3,4,23
+PR,4106902,Curitiba,Subdistrito,41069020507,Administração Regional Pinheirinho (R.8.PN) - Curitiba - Curitiba (PR),61374,198578,2233.11,Grupo 2 - Percentil 50,26.79,9.11,1,59,472,181,712,3,19,174,64,6,26,26,1,31,3,66,120,51,101,1,1,19
+PR,4106902,Curitiba,Subdistrito,41069020502,Administração Regional do Boqueirão (R.2.BQ) - Curitiba - Curitiba (PR),62621,196773,2837.22,Grupo 3 - Percentil 75,31.76,14.69,8,45,572,289,906,1,24,141,68,8,44,17,5,20,5,102,196,70,170,3,10,22
+PR,4106902,Curitiba,Subdistrito,41069020506,Administração Regional do Portão (R.7.PR) - Curitiba - Curitiba (PR),105034,313565,4080.79,Grupo 3 - Percentil 75,34.44,14.57,22,98,960,457,1515,6,37,162,103,14,55,45,7,38,1,198,385,76,325,8,12,43
+PR,4106902,Curitiba,Subdistrito,41069020501,Administração Regional da Matriz (R.1.MZ) - Curitiba - Curitiba (PR),83454,203102,6458.38,Grupo 4 - Percentil 100,112.9,61.69,48,124,2121,1253,3498,14,39,187,156,18,140,44,12,63,3,340,1271,182,928,5,33,63
+PR,4106902,Curitiba,Subdistrito,41069020505,Administração Regional de Santa Felicidade (R.5.SF) - Curitiba - Curitiba (PR),62330,194484,4426.37,Grupo 4 - Percentil 100,44.37,14.71,21,100,742,286,1128,6,22,206,65,23,39,49,4,40,4,158,240,62,181,7,3,19
+PR,4106902,Curitiba, ,41069029998,Não Localizado,0,0,0, ,0,0,0,19,246,119,384,3,4,48,24,2,14,7,2,10,0,41,113,19,86,0,4,7
+PR,4106902,Curitiba, ,41069029999,CEP Inválido,0,0,0, ,0,0,0,12,68,36,116,0,1,16,5,2,3,4,0,8,0,16,25,6,27,0,0,3
+SC,4205407,Florianópolis,Distrito,42054073000,Pântano do Sul - Florianópolis (SC),2617,7356,2845.67,Grupo 1 - Percentil 25,27.19,12.23,1,0,19,9,28,0,0,4,0,0,0,0,0,0,0,3,10,4,4,1,1,1
+SC,4205407,Florianópolis,Distrito,42054074000,Ribeirão da Ilha - Florianópolis (SC),8544,26952,2857.06,Grupo 1 - Percentil 25,26.34,10.39,6,2,63,28,93,3,2,24,4,0,1,1,0,1,0,5,23,4,22,0,1,2
+SC,4205407,Florianópolis,Distrito,42054075000,São João do Rio Vermelho - Florianópolis (SC),4574,13455,2243.61,Grupo 1 - Percentil 25,43.85,7.43,1,7,51,10,68,0,3,21,8,2,0,3,0,4,0,2,13,3,7,0,0,2
+SC,4205407,Florianópolis,Distrito,42054070500,Florianópolis- Florianópolis (SC),88603,247758,5107.75,Grupo 2 - Percentil 50,52.75,32.61,29,74,1204,808,2086,10,34,167,91,9,41,16,31,27,2,176,627,99,656,38,10,52
+SC,4205407,Florianópolis,Distrito,42054071000,Cachoeira do Bom Jesus - Florianópolis (SC),6034,18340,2544.75,Grupo 2 - Percentil 50,57.25,16.36,1,8,96,30,134,2,3,28,8,0,0,2,4,2,0,6,41,4,26,3,0,5
+SC,4205407,Florianópolis,Distrito,42054071200,Campeche - Florianópolis (SC),10679,29922,3547.49,Grupo 2 - Percentil 50,45.45,13.37,5,9,122,40,171,0,7,19,7,4,1,6,0,3,0,11,57,8,30,8,1,9
+SC,4205407,Florianópolis,Distrito,42054070800,Barra da Lagoa - Florianópolis (SC),2074,5526,2563.45,Grupo 3 - Percentil 75,88.67,21.72,2,4,43,12,59,0,2,12,0,0,0,0,0,4,0,2,22,1,11,3,0,2
+SC,4205407,Florianópolis,Distrito,42054072000,Ingleses do Rio Vermelho - Florianópolis (SC),10254,29764,2825.87,Grupo 3 - Percentil 75,69.55,27.21,0,25,182,81,288,2,11,45,11,2,1,15,4,6,2,13,84,16,62,7,0,7
+SC,4205407,Florianópolis,Distrito,42054074500,Santo Antônio de Lisboa - Florianópolis (SC),2047,6336,5806.48,Grupo 3 - Percentil 75,91.54,37.88,4,6,48,24,78,0,3,8,0,0,0,1,5,0,1,4,31,5,18,0,0,2
+SC,4205407,Florianópolis,Distrito,42054071500,Canasvieiras - Florianópolis (SC),6407,17913,4433.47,Grupo 4 - Percentil 100,108.86,53.59,3,6,186,96,288,0,4,23,9,2,4,3,1,2,0,24,118,17,74,2,1,4
+SC,4205407,Florianópolis,Distrito,42054072500,Lagoa da Conceição - Florianópolis (SC),4436,11659,4605.18,Grupo 4 - Percentil 100,116.65,70.33,5,4,127,82,213,1,3,13,2,0,2,0,1,3,1,15,86,18,59,3,2,4
+SC,4205407,Florianópolis,Distrito,42054073500,Ratones - Florianópolis (SC),1168,3650,2471.77,Grupo 4 - Percentil 100,93.15,21.92,1,1,32,8,41,0,1,7,4,0,0,1,0,0,0,5,12,0,7,1,1,2
+SC,4205407,Florianópolis, ,42054079998,Não Localizado,0,0,0, ,0,0,0,9,136,53,198,0,7,39,6,1,3,4,3,2,0,16,58,12,36,3,2,6
+SC,4205407,Florianópolis, ,42054079999,CEP Inválido,0,0,0, ,0,0,0,1,19,7,27,0,0,5,0,0,0,0,1,0,0,1,10,2,5,2,0,1
+RS,4314902,Porto Alegre,Município,43149020500,Porto Alegre - Porto Alegre (RS),508456,1397364,3843.3, ,39.1,15.08,57,221,5185,2107,7513,66,209,1515,338,27,169,136,16,69,20,572,2232,348,1550,79,20,147
+MS,5002704,Campo Grande,Distrito,50027040500,Campo Grande - Campo Grande (MS)  - excluindo os subdistritos englobados,2154,6507,1425.58,Grupo 1 - Percentil 25,1.54,3.07,0,1,0,2,3,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+MS,5002704,Campo Grande,Subdistrito,50027040508,Região Urbana do Segredo - Campo Grande - Campo Grande (MS),34451,108283,1959.69,Grupo 1 - Percentil 25,14.13,3.97,0,39,114,43,196,5,23,28,12,1,5,6,0,10,4,35,25,8,26,2,1,5
+MS,5002704,Campo Grande,Distrito,50027046000,Anhanduã - Campo Grande (MS),1473,4159,1023.3,Grupo 1 - Percentil 25,12.02,2.4,0,0,5,1,6,0,0,1,1,0,0,0,0,0,1,2,1,0,0,0,0,0
+MS,5002704,Campo Grande,Subdistrito,50027040509,Região Urbana do Imbirussu - Campo Grande - Campo Grande (MS),30908,98611,2393.5,Grupo 2 - Percentil 50,18.96,4.97,3,36,148,49,233,3,18,44,16,3,8,14,1,3,5,40,30,6,30,2,3,7
+MS,5002704,Campo Grande,Distrito,50027048000,Rochedinho - Campo Grande (MS),404,1077,1115.05,Grupo 2 - Percentil 50,18.57,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+MS,5002704,Campo Grande,Subdistrito,50027040511,Região Urbana do Anhanduizinho - Campo Grande - Campo Grande (MS),57845,184501,1766.02,Grupo 3 - Percentil 75,21.14,4.12,2,78,310,76,464,2,32,113,28,4,7,32,2,12,2,74,66,12,55,8,1,14
+MS,5002704,Campo Grande,Subdistrito,50027040513,Região Urbana do Lagoa - Campo Grande - Campo Grande (MS),35568,114206,2084.27,Grupo 3 - Percentil 75,24.34,5.52,2,52,224,63,339,2,22,65,28,5,13,22,3,5,5,56,45,3,42,8,2,13
+MS,5002704,Campo Grande,Subdistrito,50027040506,Região Urbana do Centro - Campo Grande - Campo Grande (MS),25551,70608,5724.54,Grupo 4 - Percentil 100,89.37,42.77,2,73,556,302,931,3,28,59,34,6,24,28,4,13,9,132,278,35,234,7,6,31
+MS,5002704,Campo Grande,Subdistrito,50027040507,Região Urbana do Prosa - Campo Grande - Campo Grande (MS),25249,79293,4611.38,Grupo 4 - Percentil 100,38.21,11.22,2,63,238,89,390,4,17,37,16,5,9,12,1,33,5,63,91,13,62,3,0,19
+MS,5002704,Campo Grande,Subdistrito,50027040512,Região Urbana do Bandeira - Campo Grande - Campo Grande (MS),36197,112769,2637.09,Grupo 4 - Percentil 100,28.82,7.36,2,49,274,83,406,7,15,79,27,7,3,24,5,5,7,50,80,12,61,3,1,20
+MS,5002704,Campo Grande, ,50027049998,Não Localizado,0,0,0, ,0,0,0,25,156,64,245,1,7,27,18,1,4,12,1,5,8,35,63,6,46,0,2,9
+MS,5002704,Campo Grande, ,50027049999,CEP Inválido,0,0,0, ,0,0,0,2,31,8,41,0,1,11,5,0,0,0,1,0,1,5,9,2,5,0,0,1
+MT,5103403,Cuiabá,Subdistrito,51034030540,Administração Regional Norte - Cuiabá- Cuiabá (MT),9077,30160,1881.49,Grupo 1 - Percentil 25,14.26,0.99,3,25,15,3,43,1,6,16,3,0,0,3,0,0,0,0,11,2,1,0,0,0
+MT,5103403,Cuiabá,Distrito,51034031000,Coxipó da Ponte - Cuiabá (MT) - excluindo os subdistritos englobados,1699,5496,1235.13,Grupo 1 - Percentil 25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MT,5103403,Cuiabá,Distrito,51034031500,Coxipó do Ouro - Cuiabá (MT),235,728,2107.85,Grupo 1 - Percentil 25,13.74,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+MT,5103403,Cuiabá,Subdistrito,51034031040,Administração Regional Norte - Cuiabá - Coxipó da Ponte (MT),26268,90466,2396.42,Grupo 2 - Percentil 50,22.33,5.64,7,89,106,51,246,0,16,56,24,3,9,9,5,3,2,21,48,6,34,0,0,10
+MT,5103403,Cuiabá,Subdistrito,51034031042,Administração Regional Centro-Leste - Cuiabá - Coxipó da Ponte (MT),24746,81289,3229.53,Grupo 2 - Percentil 50,21.53,7.14,9,52,114,58,224,1,12,30,16,0,2,5,2,0,1,17,66,5,47,3,3,14
+MT,5103403,Cuiabá,Distrito,51034030500,Cuiabá - Cuiabá (MT) - excluindo os subdistritos englobados,785,2713,1498.51,Grupo 3 - Percentil 75,25.8,3.69,0,5,2,1,8,0,0,3,1,0,1,2,0,0,0,1,0,0,0,0,0,0
+MT,5103403,Cuiabá,Subdistrito,51034031043,Administração Regional Sul-Leste - Cuiabá- Coxipó da Ponte (MT),42598,143351,1926.03,Grupo 3 - Percentil 75,22.81,3.49,16,183,128,50,361,4,33,106,22,2,6,23,0,16,0,29,63,9,33,5,2,8
+MT,5103403,Cuiabá,Subdistrito,51034030541,Administração Regional Centro-Oeste - Cuiabá - Cuiabá(MT),36023,116364,4446.4,Grupo 4 - Percentil 100,50.02,15.9,8,164,410,185,759,4,26,60,29,1,10,35,10,27,2,74,272,27,140,6,6,30
+MT,5103403,Cuiabá,Subdistrito,51034030542,Administração Regional Centro-Leste - Cuiabá - Cuiabá (MT),23104,73224,3825.44,Grupo 4 - Percentil 100,49.57,21.58,8,110,245,158,513,5,25,58,14,3,17,19,3,2,3,43,169,21,109,3,8,11
+MT,5103403,Cuiabá,Distrito,51034032000,Guia - Cuiabá (MT),1150,3777,1383.85,Grupo 4 - Percentil 100,34.42,2.65,1,6,6,1,13,0,0,6,0,0,0,0,0,0,0,1,5,0,1,0,0,0
+MT,5103403,Cuiabá, ,51034039998,Não Localizado,0,0,0, ,0,0,0,91,85,45,221,1,16,61,9,0,3,6,2,3,3,15,55,7,29,3,3,5
+MT,5103403,Cuiabá, ,51034039999,CEP Inválido,0,0,0, ,0,0,0,45,41,12,98,2,11,28,2,2,1,2,1,2,1,7,26,2,8,1,0,2
+GO,5208707,Goiânia,Subdistrito,52087070534,U.T.P. Caravelas - Goiânia - Goiânia(GO),5276,17565,2596.84,Grupo 1 - Percentil 25,14.23,1.14,0,11,14,2,27,0,6,10,2,0,0,4,0,1,0,0,2,0,2,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070535,U.T.P. Baliza-Itaipu - Goiânia- Goiânia (GO),10003,34317,1477.46,Grupo 1 - Percentil 25,18.07,3.21,1,19,42,11,72,2,11,22,5,2,1,5,0,1,0,5,6,0,10,2,0,0
+GO,5208707,Goiânia,Subdistrito,52087070537,U.T.P. Parque Oeste Industrial - Goiânia - Goiânia (GO),4263,12930,2085.41,Grupo 1 - Percentil 25,14.69,6.19,1,8,10,8,26,0,4,6,0,1,0,2,0,1,0,0,3,2,6,1,0,0
+GO,5208707,Goiânia,Subdistrito,52087070538,U.T.P. João Braz - Goiânia - Goiânia (GO),9059,29172,1899.17,Grupo 1 - Percentil 25,17.83,2.74,0,17,35,8,60,3,8,17,5,0,0,6,0,1,0,5,5,0,8,2,0,0
+GO,5208707,Goiânia,Subdistrito,52087070539,U.T.P. Vila Rizzo - Goiânia - Goiânia (GO),4305,14367,1648.99,Grupo 1 - Percentil 25,13.22,1.39,0,8,11,2,21,0,5,9,1,1,0,3,0,0,0,0,0,1,1,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070540,U.T.P. Parque Bom Jesus - Goiânia - Goiânia (GO),2549,8535,1380.6,Grupo 1 - Percentil 25,16.4,2.34,0,5,9,2,16,1,3,5,1,0,0,0,0,1,0,1,1,0,2,1,0,0
+GO,5208707,Goiânia,Subdistrito,52087070549,U.T.P. Aeroporto Internacional Santa Genoveva - Goiânia - Goiânia (GO),14,48,4628.57,Grupo 1 - Percentil 25,0,2083.33,0,0,0,10,10,0,0,0,0,0,0,0,0,0,0,0,0,1,9,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070550,U.T.P. Jaó - Goiânia - Goiânia (GO),2059,7026,8207.39,Grupo 1 - Percentil 25,14.23,7.12,0,2,8,5,15,0,1,1,0,0,2,1,0,0,0,3,4,0,3,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070551,U.T.P. Santo Hilário - Goiânia- Goiânia (GO),8493,28096,1976.91,Grupo 1 - Percentil 25,13.53,4.27,1,12,25,12,49,1,7,13,4,0,1,3,1,0,0,4,3,4,7,1,0,0
+GO,5208707,Goiânia,Subdistrito,52087070552,U.T.P. Vila Pedroso - Goiânia - Goiânia (GO),6703,22473,1610.74,Grupo 1 - Percentil 25,15.57,4.45,2,14,19,10,43,0,6,7,2,1,0,4,0,1,0,3,6,2,8,3,0,0
+GO,5208707,Goiânia,Subdistrito,52087070554,U.T.P. Mutirão e Curitiba - Goiânia - Goiânia (GO),12980,42948,1522.65,Grupo 1 - Percentil 25,17.23,2.56,4,28,42,11,81,0,15,26,3,3,0,10,1,1,0,5,5,6,5,1,0,0
+GO,5208707,Goiânia,Subdistrito,52087070555,U.T.P. São Domingos - Goiânia - Goiânia (GO),7401,25132,1208.82,Grupo 1 - Percentil 25,15.92,0.8,1,10,29,2,41,1,6,25,0,1,0,4,0,0,0,1,1,2,0,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070556,U.T.P. Finsocial - Goiânia - Goiânia (GO),19976,66017,1650.36,Grupo 1 - Percentil 25,17.12,2.88,1,34,78,19,131,3,18,40,14,2,4,12,0,2,0,9,10,3,12,2,0,0
+GO,5208707,Goiânia,Subdistrito,52087070562,U.T.P. Jardim Primavera (Área Urbana Isolada) - Goiânia- Goiânia (GO),2474,8255,1240.14,Grupo 1 - Percentil 25,13.33,0,0,3,8,0,11,0,3,5,2,0,0,0,0,0,0,0,1,0,0,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070563,U.T.P. Zona Rural - Goiânia - Goiânia (GO),8380,29779,1352.22,Grupo 1 - Percentil 25,7.72,1.01,1,10,12,3,25,1,7,10,0,0,0,2,0,1,0,0,1,0,3,0,0,0
+GO,5208707,Goiânia,Distrito,52087071500,Vila Rica - Goiânia (GO),538,1638,2537.88,Grupo 1 - Percentil 25,12.21,0,0,1,1,0,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070523,U.T.P. Crimeia Leste - Goiânia - Goiânia (GO),4577,13627,2719.13,Grupo 2 - Percentil 50,24.22,7.34,2,12,19,10,41,2,2,7,3,0,0,8,1,1,0,1,4,4,6,0,0,2
+GO,5208707,Goiânia,Subdistrito,52087070524,U.T.P. Negrão de Lima - Goiânia - Goiânia (GO),3297,9319,3218.06,Grupo 2 - Percentil 50,25.75,12.88,1,3,20,12,35,0,1,4,3,0,0,1,0,0,0,0,12,1,11,1,0,1
+GO,5208707,Goiânia,Subdistrito,52087070525,U.T.P. Bairro Feliz - Goiânia - Goiânia (GO),3692,11699,3164.01,Grupo 2 - Percentil 50,23.08,8.55,0,7,20,10,37,0,1,8,2,1,2,5,0,1,0,3,6,4,4,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070526,U.T.P. Jardim Novo Mundo - Goiânia - Goiânia (GO),12962,41063,2030.99,Grupo 2 - Percentil 50,25.57,6.82,0,29,76,28,133,2,15,28,14,2,2,9,2,2,0,4,23,8,18,1,1,2
+GO,5208707,Goiânia,Subdistrito,52087070527,U.T.P. Riviera/Água Branca - Goiânia - Goiâna (GO),6738,21509,3055.43,Grupo 2 - Percentil 50,23.25,6.51,1,16,33,14,63,1,5,11,6,1,2,8,0,2,0,6,7,4,8,1,1,0
+GO,5208707,Goiânia,Subdistrito,52087070528,U.T.P. Autudromo ou Parque Lozandes - Goiânia- Goiânia (GO),1879,6551,14679.57,Grupo 2 - Percentil 50,18.32,13.74,1,0,11,9,20,0,0,0,1,0,1,0,0,0,0,4,6,1,7,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070529,U.T.P. Parque das Laranjeiras e Jardim da Luz - Goiânia - Goiânia (GO),13730,45117,3219.28,Grupo 2 - Percentil 50,19.73,8.64,1,14,74,39,127,0,7,23,4,2,2,4,0,1,0,12,28,9,28,2,0,5
+GO,5208707,Goiânia,Subdistrito,52087070532,U.T.P. Novo Horizonte/Alphaville - Goiânia- Goiânia (GO),11016,34395,3268.66,Grupo 2 - Percentil 50,21.81,6.69,1,16,58,23,97,1,7,20,5,3,2,9,0,0,1,11,15,4,16,0,0,3
+GO,5208707,Goiânia,Subdistrito,52087070533,U.T.P. Celina Park/Recreio dos Funcionários- Goiânia - Goiânia(GO),11003,34932,3668.92,Grupo 2 - Percentil 50,28.34,10.59,1,21,77,37,135,0,8,21,5,1,2,8,2,1,0,15,32,10,25,2,1,2
+GO,5208707,Goiânia,Subdistrito,52087070536,U.T.P. Parque Santa Rita - Goiânia - Goiânia (GO),6827,22586,1846.62,Grupo 2 - Percentil 50,22.58,1.77,1,18,32,4,54,0,9,18,3,1,0,6,0,1,0,6,3,1,3,2,0,1
+GO,5208707,Goiânia,Subdistrito,52087070541,U.T.P. Vera Cruz - Goiânia - Goiânia (GO),7036,22985,1960.22,Grupo 2 - Percentil 50,20.88,3.05,0,17,31,7,55,0,10,14,3,3,0,7,0,0,0,3,6,4,3,0,0,2
+GO,5208707,Goiânia,Subdistrito,52087070545,U.T.P. Capuava - Goiânia - Goiânia (GO),7118,22135,2042.27,Grupo 2 - Percentil 50,25.75,16.26,2,13,42,36,91,0,2,15,3,2,4,7,0,3,0,5,17,9,23,1,0,0
+GO,5208707,Goiânia,Subdistrito,52087070546,U.T.P. Urias Magalhães - Goiânia - Goiânia (GO),7479,23038,2669.71,Grupo 2 - Percentil 50,26.48,6.95,3,15,43,16,74,0,4,8,4,3,0,9,0,2,1,9,18,5,10,0,0,1
+GO,5208707,Goiânia,Subdistrito,52087070547,U.T.P. Goiânia II - Goiânia - Goiânia (GO),1786,5757,4621.81,Grupo 2 - Percentil 50,26.06,10.42,1,1,13,6,20,0,0,5,0,0,0,1,0,0,1,1,6,0,5,0,0,1
+GO,5208707,Goiânia,Subdistrito,52087070553,U.T.P. Chácaras São Joaquim - Goiânia - Goiânia (GO),3803,12287,1861.23,Grupo 2 - Percentil 50,19.53,4.07,0,6,18,5,29,0,4,8,3,1,1,1,0,1,1,0,6,1,2,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070558,U.T.P. Campus Universitário/Conjunto Itatiaia - Goiânia - Goiânia (GO),3855,12762,2897.64,Grupo 2 - Percentil 50,21.94,6.27,0,9,19,8,36,0,4,9,2,0,0,3,0,2,0,1,7,3,5,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070508,U.T.P. Leste Universitário- Goiânia - Goiânia(GO),8354,20965,3257.52,Grupo 3 - Percentil 75,41.5,30.53,2,15,70,64,149,0,12,10,5,1,4,2,0,0,0,13,40,7,53,1,1,0
+GO,5208707,Goiânia,Subdistrito,52087070510,U.T.P. Alto da Glória e Redenção- Goiânia- Goiânia (GO),5501,14934,4423.37,Grupo 3 - Percentil 75,40.18,13.39,2,7,51,20,78,0,1,16,5,1,1,6,0,0,0,2,27,2,17,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070511,U.T.P. Santo Antonio - Goiânia - Goiânia (GO),948,2928,2826.94,Grupo 3 - Percentil 75,34.15,20.49,0,4,6,6,16,0,0,0,2,0,0,3,0,1,0,0,4,3,3,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070512,U.T.P. Pedro Ludovico/Bela Vista/Jardins das Esmeraldas - Goiânia- Goiânia (GO),12660,35174,4541.98,Grupo 3 - Percentil 75,40.09,9.67,2,23,116,34,173,1,6,27,13,4,2,12,0,4,0,18,47,12,20,1,1,5
+GO,5208707,Goiânia,Subdistrito,52087070515,U.T.P. Parque Amazônia - Goiânia - Goiânia (GO),9375,27200,3004.82,Grupo 3 - Percentil 75,32.35,9.56,2,21,65,26,112,1,12,9,7,1,3,4,1,1,1,13,30,3,19,3,0,4
+GO,5208707,Goiânia,Subdistrito,52087070516,U.T.P. Jardim América - Goiânia - Goiânia(GO),13974,40907,3959.93,Grupo 3 - Percentil 75,39.36,15.4,1,29,131,63,223,2,8,30,11,2,4,15,1,4,0,29,49,27,32,1,2,6
+GO,5208707,Goiânia,Subdistrito,52087070517,U.T.P. Sudoeste - Goiânia - Goiânia(GO),8530,24928,3480.37,Grupo 3 - Percentil 75,28.48,13.24,2,16,53,33,102,2,10,14,7,3,1,6,0,0,0,9,17,10,22,0,1,0
+GO,5208707,Goiânia,Subdistrito,52087070518,U.T.P. Cidade Jardim - Goiânia - Goiânia (GO),13596,39611,2730.91,Grupo 3 - Percentil 75,38.37,19.44,2,29,121,77,227,1,13,26,14,5,3,12,2,1,1,15,55,15,58,1,1,4
+GO,5208707,Goiânia,Subdistrito,52087070522,U.T.P. Marechal Rondon - Goiânia - Goiânia (GO),9917,29740,2471.83,Grupo 3 - Percentil 75,31.61,9.75,1,25,68,29,122,1,9,25,7,1,3,12,0,4,0,8,26,6,20,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070531,U.T.P. Jardim Europa - Goiânia- Goiânia (GO),11592,36916,3094.96,Grupo 3 - Percentil 75,36.03,11.65,1,34,98,43,175,3,13,19,8,2,3,14,0,5,0,22,41,8,32,2,0,3
+GO,5208707,Goiânia,Subdistrito,52087070542,U.T.P. Jardim Petropólis- Goiânia - Goiânia (GO),3225,10054,2378.72,Grupo 3 - Percentil 75,30.83,7.96,1,7,23,8,38,0,5,7,2,1,0,1,0,1,0,3,10,3,5,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070543,U.T.P. Vila Regina/Parque Industrial Paulista/Santos Dumont - Goiânia- Goiânia (GO),4566,14201,2008.38,Grupo 3 - Percentil 75,30.98,2.11,0,9,35,3,47,1,0,14,5,0,0,5,0,3,0,6,8,2,1,1,0,1
+GO,5208707,Goiânia,Subdistrito,52087070557,U.T.P. Jardim Balneário Meia Ponte/Mansões Goianas - Goiânia - Goiânia (GO),7636,24222,2449.08,Grupo 3 - Percentil 75,33.85,16.51,2,16,64,40,120,1,6,19,2,3,8,5,1,1,1,10,26,5,26,3,1,2
+GO,5208707,Goiânia,Subdistrito,52087070559,U.T.P. Vila Jardim São Judas Tadeu/Jardim Pompeia- Goiânia - Goiânia (GO),3364,10662,2065.31,Grupo 3 - Percentil 75,30.01,8.44,0,8,24,9,41,0,2,6,6,0,0,4,0,1,0,2,7,2,7,1,1,2
+GO,5208707,Goiânia,Subdistrito,52087070560,U.T.P. Jardim Guanabara - Goiânia - Goiânia (GO),9854,32201,2182.28,Grupo 3 - Percentil 75,35.71,9.63,1,43,71,31,145,0,7,26,3,2,1,10,1,25,0,16,24,7,23,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070561,U.T.P. CEASA/Aldeia do Vale - Goiânia - Goiânia (GO),498,1850,19845.99,Grupo 3 - Percentil 75,43.24,21.62,0,5,3,4,12,1,0,0,0,0,0,0,0,4,0,1,1,1,3,1,0,0
+GO,5208707,Goiânia,Subdistrito,52087070501,U.T.P. Central - Goiânia - Goiânia (GO),9449,23048,4652.41,Grupo 4 - Percentil 100,102.83,80.27,5,26,206,185,417,6,10,16,10,3,11,8,4,3,1,40,129,22,151,1,1,1
+GO,5208707,Goiânia,Subdistrito,52087070502,U.T.P. Sul - Goiânia - Goiânia (GO),4191,11580,6934.43,Grupo 4 - Percentil 100,75.99,34.54,1,4,83,40,127,0,2,5,6,0,2,1,0,1,1,16,51,4,33,0,1,4
+GO,5208707,Goiânia,Subdistrito,52087070503,U.T.P. Marista - Goiânia - Goiânia (GO),2205,6423,9436.02,Grupo 4 - Percentil 100,238.21,149.46,0,8,145,96,249,1,3,6,4,0,10,3,0,1,0,29,97,26,60,1,4,4
+GO,5208707,Goiânia,Subdistrito,52087070504,U.T.P. Oeste - Goiânia - Goiânia (GO),9808,26413,9686.14,Grupo 4 - Percentil 100,50.35,32.56,0,13,120,86,219,0,2,9,12,0,7,6,0,4,1,28,69,14,64,1,0,2
+GO,5208707,Goiânia,Subdistrito,52087070505,U.T.P. Aeroporto - Goiânia - Goiânia (GO),3903,10686,5680.72,Grupo 4 - Percentil 100,57.08,33.69,0,8,53,36,97,1,2,4,6,0,1,3,2,1,1,11,31,3,31,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070506,U.T.P. Norte Ferroviário - Goiânia - Goiânia (GO),1779,5085,2542.38,Grupo 4 - Percentil 100,100.29,76.7,1,5,45,39,89,2,3,2,2,0,2,2,0,0,1,7,30,2,34,0,2,0
+GO,5208707,Goiânia,Subdistrito,52087070507,U.T.P. Vila Nova - Goiânia - Goiânia (GO),6190,15875,2966.91,Grupo 4 - Percentil 100,49.13,23.94,2,16,60,38,114,2,5,9,5,2,4,6,1,2,0,9,32,7,27,2,0,1
+GO,5208707,Goiânia,Subdistrito,52087070509,U.T.P. Jardim Goiás - Goiânia - Goiânia (GO),4207,11805,6371.41,Grupo 4 - Percentil 100,74.54,60.99,1,4,83,72,159,3,3,8,2,0,8,1,0,0,1,14,55,4,59,0,0,1
+GO,5208707,Goiânia,Subdistrito,52087070513,U.T.P. Bueno - Goiânia- Goiânia (GO),14013,38520,8449.34,Grupo 4 - Percentil 100,63.08,41.02,2,25,216,158,399,0,7,20,18,0,10,2,5,5,0,41,128,21,127,6,4,5
+GO,5208707,Goiânia,Subdistrito,52087070514,U.T.P. Nova Suíça - Goiânia - Goiânia (GO),2912,8382,8836.76,Grupo 4 - Percentil 100,54.88,14.32,0,8,38,12,58,0,1,2,1,2,2,0,2,5,1,6,25,3,6,0,0,2
+GO,5208707,Goiânia,Subdistrito,52087070519,U.T.P. Coimbra - Goiânia- Goiânia (GO),3216,9276,3863.94,Grupo 4 - Percentil 100,50.67,29.11,0,8,39,27,74,1,1,7,1,2,4,7,0,0,0,9,17,5,18,0,0,2
+GO,5208707,Goiânia,Subdistrito,52087070520,U.T.P. Campinas - Goiânia - Goiânia (GO),7586,20914,2650.57,Grupo 4 - Percentil 100,74.59,47.81,2,23,131,100,254,3,8,17,4,3,10,9,0,6,1,28,75,7,82,0,0,1
+GO,5208707,Goiânia,Subdistrito,52087070521,U.T.P. Aeroviários - Goiânia - Goiânia (GO),4910,14564,2064.9,Grupo 4 - Percentil 100,46,17.85,3,21,43,26,90,0,8,10,3,3,2,10,0,3,0,6,21,5,19,0,0,0
+GO,5208707,Goiânia,Subdistrito,52087070530,U.T.P. Jardim Atlântico - Goiânia - Goiânia(GO),2271,7602,5234.92,Grupo 4 - Percentil 100,49.99,15.79,0,4,34,12,50,0,2,5,2,0,2,2,0,0,0,4,19,2,8,0,0,4
+GO,5208707,Goiânia,Subdistrito,52087070544,U.T.P. Cândida de Morais/Maria Dilce - Goiânia - Goiânia (GO),9328,28458,1813.91,Grupo 4 - Percentil 100,44.98,14.06,1,37,90,40,167,1,15,45,10,2,2,14,2,4,0,14,18,8,30,2,0,0
+GO,5208707,Goiânia,Subdistrito,52087070548,U.T.P. Santa Genoveva - Goiânia - Goiânia (GO),1881,5975,4393.03,Grupo 4 - Percentil 100,61.92,13.39,0,4,33,8,45,0,1,3,2,0,0,2,0,1,0,4,23,1,7,0,0,1
+GO,5208707,Goiânia, ,52087079998,Não Localizado,0,0,0, ,0,0,0,119,295,101,515,4,55,104,25,8,7,46,4,13,2,44,102,25,67,1,4,4
+GO,5208707,Goiânia, ,52087079999,CEP Inválido,0,0,0, ,0,0,0,22,83,46,151,2,10,23,8,1,2,5,0,5,0,17,29,9,35,2,1,2
+DF,5300108,Brasília,Subdistrito,53001080510,Sobradinho - Brasília - Brasília(DF),60212,209548,3679.56,Grupo 1 - Percentil 25,21.14,8.69,1,86,356,182,624,2,28,110,58,10,7,37,2,19,0,44,118,47,128,4,0,10
+DF,5300108,Brasília,Subdistrito,53001080515,Ceilândia - Brasília - Brasília (DF),118829,402242,2069.21,Grupo 1 - Percentil 25,21.63,7.68,2,226,642,309,1177,12,80,201,137,12,24,56,10,80,3,92,169,87,195,5,0,14
+DF,5300108,Brasília,Subdistrito,53001080518,Samambaia - Brasília - Brasília (DF),56667,200559,2169.4,Grupo 1 - Percentil 25,20.49,6.38,0,80,331,128,539,1,47,109,80,6,8,12,9,12,4,57,68,31,85,6,0,4
+DF,5300108,Brasília,Subdistrito,53001080520,Recanto das Emas - Brasília - Brasília(DF),33180,121011,1783.83,Grupo 1 - Percentil 25,19.42,7.69,1,47,187,93,327,5,31,62,35,4,7,7,1,8,0,21,52,21,65,4,0,4
+DF,5300108,Brasília,Subdistrito,53001080525,Santa Maria - Brasília - Brasília (DF),32205,117925,2129.28,Grupo 1 - Percentil 25,10.6,4.16,0,32,93,49,174,1,12,18,17,2,6,0,1,19,0,16,37,10,31,0,2,2
+DF,5300108,Brasília,Subdistrito,53001080507,Gama - Brasília - Brasília(DF),40000,134958,3210.92,Grupo 2 - Percentil 50,26.82,16.97,1,78,283,229,590,4,35,60,56,4,19,24,4,15,2,36,96,51,155,4,2,23
+DF,5300108,Brasília,Subdistrito,53001080511,Planaltina - Brasília - Brasília (DF),47914,170944,1999.51,Grupo 2 - Percentil 50,23.4,10.59,1,74,325,181,580,9,45,143,53,12,19,13,3,13,0,32,69,51,110,5,1,2
+DF,5300108,Brasília,Subdistrito,53001080513,Riacho Fundo - Brasília - Brasília(DF),20816,71804,2875.23,Grupo 2 - Percentil 50,29.66,10.58,0,37,176,76,289,0,16,67,22,8,9,14,1,6,0,23,46,16,50,6,1,4
+DF,5300108,Brasília,Subdistrito,53001080519,Candangolândia- Brasília - Brasília (DF),4582,15910,3455.61,Grupo 2 - Percentil 50,23.26,10.06,0,10,27,16,53,0,3,4,3,0,1,5,0,2,0,5,10,4,9,2,2,3
+DF,5300108,Brasília,Subdistrito,53001080530,São Sebastião - Brasília - Brasília (DF),27888,94679,3147.4,Grupo 2 - Percentil 50,24.19,6.34,1,32,196,60,288,0,12,106,27,4,6,11,4,5,0,16,37,16,38,6,0,0
+DF,5300108,Brasília,Subdistrito,53001080508,Taguatinga - Brasília- Brasília (DF),113308,360414,5269.37,Grupo 3 - Percentil 75,42.62,20.86,10,180,1346,752,2278,17,81,188,206,24,63,50,7,42,6,239,605,128,550,23,5,44
+DF,5300108,Brasília,Subdistrito,53001080514,Nucleo Bandeirante - Brasília- Brasília (DF),12886,43625,7727.7,Grupo 3 - Percentil 75,40.57,15.59,2,36,139,68,243,2,11,21,14,5,8,8,1,16,0,21,71,19,40,2,1,3
+DF,5300108,Brasília,Subdistrito,53001080517,Cruzeiro - Brasília - Brasília (DF),31007,81019,9761.32,Grupo 3 - Percentil 75,35.67,18.27,4,20,265,148,433,1,8,14,29,4,13,2,2,8,2,59,140,16,117,6,0,12
+DF,5300108,Brasília,Subdistrito,53001080521,Lago Norte - Brasília- Brasília (DF),12742,41539,11417.62,Grupo 3 - Percentil 75,33.7,16.37,2,11,127,68,206,1,5,19,8,2,9,3,0,3,0,15,75,7,52,4,0,3
+DF,5300108,Brasília,Subdistrito,53001080506,Brasília- Brasília - Brasília (DF),78797,208469,10107.51,Grupo 4 - Percentil 100,88.65,48.3,30,92,1726,1007,2825,17,34,71,133,4,92,24,4,30,7,248,1187,88,808,19,12,47
+DF,5300108,Brasília,Subdistrito,53001080509,Brazlândia - Brasília - Brasília (DF),16026,57404,2171.64,Grupo 4 - Percentil 100,44.42,16.2,1,33,221,93,347,1,23,87,45,5,11,5,2,3,0,26,46,20,62,8,0,3
+DF,5300108,Brasília,Subdistrito,53001080512,Paranoá - Brasília - Brasília (DF),15708,53545,2990.23,Grupo 4 - Percentil 100,44.08,14.19,0,57,179,76,312,2,25,71,38,1,10,18,1,13,1,16,42,23,42,3,0,6
+DF,5300108,Brasília,Subdistrito,53001080516,Guará - Brasília - Brasília(DF),43189,141720,4859.55,Grupo 4 - Percentil 100,47.06,25.19,3,106,558,357,1021,8,35,106,56,11,27,16,5,50,4,101,231,51,272,19,3,26
+DF,5300108,Brasília,Subdistrito,53001080523,Lago Sul - Brasília - Brasília (DF),8065,29196,19599.8,Grupo 4 - Percentil 100,67.47,38.02,3,19,175,111,305,2,11,13,10,1,15,1,2,5,2,24,116,9,83,2,2,7
+DF,5300108,Brasília, ,53001089999,CEP Inválido,0,0,0, ,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
