@@ -21,9 +21,9 @@ LicencaDados= ''
 
 def processar_dadosLocal(Dataset):
     #Caminhorelat="Dados local"
-    #Caminhorelat = AnaliseDBscore(Dataset)
+    Caminhorelat = AnaliseDBscore(Dataset)
     
-    return 1 #Caminhorelat   
+    return Caminhorelat   
     
     
 def download_pasta(Relat):
@@ -90,9 +90,9 @@ with st.container():
       with st.spinner('Processando Análise...'):
         Dataset = ['API_ID_4304_Brasil-Classif_1.csv','API_ID_4304_Brasil-Classif_6795.csv','API_ID_4304_Grande_Região-Classif_32863.csv','API_ID_4304_Município-Classif_32860.csv','API_ID_4304_Unidade_da_Federação-Classif_32860.csv',
         'Dados_Abertos_Base_capitais_intraurbana_FINAL_SegurancaAlimentar.csv','Dados_Abertos_bcdata.sgs.11427-Banco Central do Brasil.csv','Dados_Abertos_Execução_PNAE_2020(csv)-Execução_PNAE_2020_.csv','Dados_Abertos_RAIS_EST_2016_filtro_desertos_alimentares_FINAL.csv']
-        #Relat = processar_dadosLocal(Dataset)
-        #st.success('Finalizado!')
-        #download_pasta(Relat)
+        Relat = processar_dadosLocal(Dataset)
+        st.success('Finalizado!')
+        download_pasta(Relat)
 
 
         
