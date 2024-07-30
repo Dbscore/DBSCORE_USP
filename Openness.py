@@ -13,7 +13,6 @@ import rdflib
 import tabula
 import platform
 import matplotlib
-matplotlib.use('tkagg')
 import warnings
 warnings.simplefilter("ignore", UserWarning)
 plt.switch_backend('agg')
